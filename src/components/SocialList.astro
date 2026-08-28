@@ -1,7 +1,7 @@
 ---
 import { Icon } from "astro-icon/components";
 
-/** 
+/**
 	Uses https://www.astroicon.dev/getting-started/
 	Find icons via guide: https://www.astroicon.dev/guides/customization/#open-source-icon-sets
 	Only installed pack is: @iconify-json/mdi
@@ -13,15 +13,15 @@ const socialLinks: {
 	name: string;
 }[] = [
 	{
-		friendlyName: "Github",
-		link: "https://github.com/chrismwilliams/astro-cactus",
+		friendlyName: "GitHub",
+		link: "https://github.com/oftx",
 		name: "mdi:github",
 	},
 ];
 ---
 
 <div class="flex flex-wrap items-end gap-x-2">
-	<p>Find me on</p>
+	<p>社交链接：</p>
 	<ul class="flex flex-1 items-center gap-x-2 sm:flex-initial">
 		{
 			socialLinks.map(({ friendlyName, isWebmention, link, name }) => (
