@@ -19,8 +19,8 @@ export const siteConfig: SiteConfig = {
 	lang: "en-GB",
 	// Meta property, found in src/components/BaseHead.astro L:42
   ogLocale: "en_GB",
-  // Determines whether to show the logo in the templates header
-	showLogo: true,
+	// Determines whether to show the logo in the templates header
+	showLogo: false,
 	// Date.prototype.toLocaleDateString() parameters, found in src/utils/date.ts.
 	date: {
 		options: {
