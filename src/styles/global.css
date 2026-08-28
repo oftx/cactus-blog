@@ -21,7 +21,7 @@
 @property --color-global-text {
 	syntax: "<color>";
 	inherits: true;
-	initial-value: oklch(25% 0 0);
+	initial-value: oklch(20% 0 0);
 }
 @property --color-muted {
 	syntax: "<color>";
@@ -51,7 +51,7 @@
 
 @theme {
 	--color-global-bg: oklch(98.3% 0 0);
-	--color-global-text: oklch(25% 0 0);
+	--color-global-text: oklch(20% 0 0);
 	--color-muted: oklch(48% 0 0);
 	--color-link: oklch(58% 0.15 220);
 	--color-accent: oklch(60% 0.15 220);
@@ -60,21 +60,28 @@
 }
 
 @layer base {
-	*,
-	*::before,
-	*::after {
-		transition-property: background-color, border-color, color, fill, stroke, text-decoration-color;
-		transition-duration: 200ms;
-		transition-timing-function: ease-in-out;
-	}
-
 	html {
 		color-scheme: light dark;
 		accent-color: var(--color-accent);
 		scrollbar-gutter: stable;
 
+		--color-global-bg: oklch(98.3% 0 0);
+		--color-global-text: oklch(20% 0 0);
+		--color-muted: oklch(48% 0 0);
+		--color-link: oklch(58% 0.15 220);
+		--color-accent: oklch(60% 0.15 220);
+		--color-accent-2: oklch(16% 0 0);
+		--color-quote: oklch(60% 0.15 220);
+
 		&[data-theme="light"] {
 			color-scheme: light;
+			--color-global-bg: oklch(98.3% 0 0);
+			--color-global-text: oklch(20% 0 0);
+			--color-muted: oklch(48% 0 0);
+			--color-link: oklch(58% 0.15 220);
+			--color-accent: oklch(60% 0.15 220);
+			--color-accent-2: oklch(16% 0 0);
+			--color-quote: oklch(60% 0.15 220);
 		}
 
 		&[data-theme="dark"] {
@@ -95,6 +102,12 @@
 
 	@view-transition {
 		navigation: auto;
+	}
+
+	::view-transition-old(root),
+	::view-transition-new(root) {
+		animation-duration: 200ms;
+		animation-timing-function: ease-in-out;
 	}
 
 	/* Astro image responsive styles, modified from -> https://docs.astro.build/en/guides/images/#responsive-image-styles */

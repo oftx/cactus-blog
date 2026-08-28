@@ -21,10 +21,17 @@
 			return;
 		}
 
-		root.setAttribute("data-theme", newTheme);
+		const update = () => {
+			root.setAttribute("data-theme", newTheme);
+			if (typeof localStorage !== "undefined") {
+				localStorage.setItem("theme", newTheme);
+			}
+		};
 
-		if (typeof localStorage !== "undefined") {
-			localStorage.setItem("theme", newTheme);
+		if (document.startViewTransition) {
+			document.startViewTransition(update);
+		} else {
+			update();
 		}
 	}
 
