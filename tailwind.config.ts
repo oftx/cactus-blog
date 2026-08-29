@@ -17,7 +17,18 @@ export default {
 							},
 						},
 						blockquote: {
-							borderLeftWidth: "0",
+							borderLeftWidth: "0.25rem",
+							borderLeftColor: "var(--color-muted)",
+							borderLeftStyle: "solid",
+							paddingLeft: "1rem",
+							fontStyle: "normal",
+							color: "var(--color-muted)",
+						},
+						"blockquote p:first-of-type::before": {
+							content: "none",
+						},
+						"blockquote p:last-of-type::after": {
+							content: "none",
 						},
 						code: {
 							border: "1px dotted #666",

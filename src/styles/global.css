@@ -46,7 +46,7 @@
 @property --color-quote {
 	syntax: "<color>";
 	inherits: true;
-	initial-value: oklch(60% 0.15 220);
+	initial-value: oklch(48% 0 0);
 }
 
 @theme {
@@ -56,7 +56,7 @@
 	--color-link: oklch(58% 0.15 220);
 	--color-accent: oklch(60% 0.15 220);
 	--color-accent-2: oklch(16% 0 0);
-	--color-quote: oklch(60% 0.15 220);
+	--color-quote: oklch(48% 0 0);
 }
 
 @layer base {
@@ -71,7 +71,7 @@
 		--color-link: oklch(58% 0.15 220);
 		--color-accent: oklch(60% 0.15 220);
 		--color-accent-2: oklch(16% 0 0);
-		--color-quote: oklch(60% 0.15 220);
+		--color-quote: oklch(48% 0 0);
 
 		&[data-theme="light"] {
 			color-scheme: light;
@@ -81,7 +81,7 @@
 			--color-link: oklch(58% 0.15 220);
 			--color-accent: oklch(60% 0.15 220);
 			--color-accent-2: oklch(16% 0 0);
-			--color-quote: oklch(60% 0.15 220);
+			--color-quote: oklch(48% 0 0);
 		}
 
 		&[data-theme="dark"] {
@@ -92,7 +92,7 @@
 			--color-link: oklch(75% 0.14 220);
 			--color-accent: oklch(75% 0.14 220);
 			--color-accent-2: oklch(96% 0 0);
-			--color-quote: oklch(75% 0.14 220);
+			--color-quote: oklch(62% 0 0);
 		}
 	}
 
@@ -102,12 +102,6 @@
 
 	@view-transition {
 		navigation: auto;
-	}
-
-	::view-transition-old(root),
-	::view-transition-new(root) {
-		animation-duration: 200ms;
-		animation-timing-function: ease-in-out;
 	}
 
 	/* Astro image responsive styles, modified from -> https://docs.astro.build/en/guides/images/#responsive-image-styles */
@@ -144,6 +138,7 @@
 	--tw-prose-headings: var(--color-accent-2);
 	--tw-prose-hr: 0.5px dashed #666;
 	--tw-prose-links: var(--color-global-text);
-	--tw-prose-quotes: var(--color-quote);
+	--tw-prose-quotes: var(--color-muted);
+	--tw-prose-quote-borders: var(--color-muted);
 	--tw-prose-th-borders: #666;
 }
