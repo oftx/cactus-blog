@@ -8,6 +8,10 @@
 | 2025-08-14 | 部署 [Fuwari](https://github.com/saicaca/fuwari) 博客，借助 [GitHub](https://github.com/oftx/fuwari) 和 [Cloudflare Pages](https://pages.cloudflare.com/) 部署静态页面。<br>先前我在本地写了一些备忘的文本，大多是操作流程记录。<br>随着文档数量的增加，我意识到把这些文件保存到本地并不可靠，应该把它们上传到云端以防数据丢失，所以建立了博客以保存我编写的内容，同时也方便分享。 |
 | 2021-02-09 | 注册博客园账号。但由于没有写作动力，注册后即停止更新内容。                                                                                                                                                                                                                                                                                                                         |
 
+## 评论功能
+
+此博客使用基于 GitHub Discussions 的 [giscus](https://giscus.app/) 项目实现博客评论功能。
+
 ## 博客模版
 
 此博客基于 [Astro Theme Cactus](https://github.com/chrismwilliams/astro-theme-cactus) 模板构建。
