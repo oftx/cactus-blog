@@ -32,21 +32,48 @@ if (includeTime) {
 
 <script is:inline>
 	(() => {
-		const els = document.querySelectorAll('time[data-include-time="true"]');
-		if (!els.length) return;
-		const pad = (n) => String(n).padStart(2, "0");
-		els.forEach((el) => {
-			const dt = el.getAttribute("datetime");
-			if (!dt) return;
-			const d = new Date(dt);
-			if (isNaN(d.getTime())) return;
-			const Y = d.getFullYear();
-			const M = pad(d.getMonth() + 1);
-			const D = pad(d.getDate());
-			const h = pad(d.getHours());
-			const m = pad(d.getMinutes());
-			const s = pad(d.getSeconds());
-			el.textContent = `${Y}-${M}-${D} ${h}:${m}:${s}`;
-		});
+		const formatDates = () => {
+			const pad = (n) => String(n).padStart(2, "0");
+			document.querySelectorAll("time[datetime]").forEach((el) => {
+				const dt = el.getAttribute("datetime");
+				if (!dt) return;
+				const d = new Date(dt);
+				if (isNaN(d.getTime())) return;
+				const Y = d.getFullYear();
+				const M = pad(d.getMonth() + 1);
+				const D = pad(d.getDate());
+				const dateStr = `${Y}-${M}-${D}`;
+				if (el.getAttribute("data-include-time") === "true") {
+					const h = pad(d.getHours());
+					const m = pad(d.getMinutes());
+					const s = pad(d.getSeconds());
+					el.textContent = `${dateStr} ${h}:${m}:${s}`;
+				} else {
+					el.textContent = dateStr;
+				}
+				const li = el.closest("li[data-date-group]");
+				if (li) {
+					li.dataset.dateGroup = dateStr;
+				}
+			});
+
+			document.querySelectorAll("ul").forEach((ul) => {
+				const items = ul.querySelectorAll("li[data-date-group]");
+				if (!items.length) return;
+				items.forEach((item, idx) => {
+					const cur = item.dataset.dateGroup;
+					const prev = idx > 0 ? items[idx - 1].dataset.dateGroup : null;
+					if (cur && cur === prev) {
+						item.dataset.hideDefault = "true";
+					} else {
+						delete item.dataset.hideDefault;
+					}
+				});
+			});
+		};
+
+		formatDates();
+		document.addEventListener("astro:page-load", formatDates);
+		window.addEventListener("pageshow", formatDates);
 	})();
 </script>
