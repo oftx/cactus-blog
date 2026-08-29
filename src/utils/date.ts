@@ -23,9 +23,6 @@ export function getFormattedDate(
 	return `${year}-${month}-${day}`;
 }
 
-export function collectionDateSort(
-	a: CollectionEntry<"post" | "note">,
-	b: CollectionEntry<"post" | "note">,
-) {
+export function collectionDateSort(a: CollectionEntry<"post">, b: CollectionEntry<"post">) {
 	return b.data.publishDate.getTime() - a.data.publishDate.getTime();
 }
