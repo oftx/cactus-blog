@@ -7,22 +7,22 @@ import { menuLinks, siteConfig } from "@/site.config";
 <header class="group relative mb-28 flex items-center" id="main-header">
 	<div class="flex sm:flex-col sm:items-start">
 		<a
-			aria-current={Astro.url.pathname === "/" ? "page" : false}
+			aria-current={Astro.url.pathname === "/posts/" || Astro.url.pathname === "/" ? "page" : false}
 			class="inline-flex items-center sm:relative sm:inline-block"
-			href="/"
+			href="/posts/"
 		>
-			<span class="text-accent-2 text-xl font-bold sm:text-2xl">{siteConfig.title}</span>
+			<span class="text-accent-2 font-mono text-xl font-bold sm:text-2xl">{siteConfig.title}</span>
 		</a>
 		<nav
 			aria-label="Main"
-			class="bg-global-bg absolute -inset-x-4 top-12 hidden flex-col divide-y divide-muted/20 px-2 py-4 group-[.menu-open]:z-50 group-[.menu-open]:flex sm:static sm:z-auto sm:-ms-4 sm:mt-1 sm:flex sm:flex-row sm:divide-x sm:divide-y-0 sm:divide-muted/20 sm:bg-transparent sm:p-0"
+			class="bg-global-bg divide-muted/20 sm:divide-muted/20 absolute -inset-x-4 top-12 hidden flex-col divide-y px-2 py-4 group-[.menu-open]:z-50 group-[.menu-open]:flex sm:static sm:z-auto sm:-ms-4 sm:mt-1 sm:flex sm:flex-row sm:divide-x sm:divide-y-0 sm:bg-transparent sm:p-0"
 			id="navigation-menu"
 		>
 			{
 				menuLinks.map((link) => (
 					<a
 						aria-current={Astro.url.pathname === link.path ? "page" : false}
-						class="px-2 py-4 font-semibold hover:text-accent aria-[current=page]:text-accent sm:px-4 sm:py-0 sm:underline-offset-2 sm:hover:underline"
+						class="hover:text-accent aria-[current=page]:text-accent px-2 py-4 font-semibold sm:px-4 sm:py-0 sm:underline-offset-2 sm:hover:underline"
 						href={link.path}
 					>
 						{link.title}
