@@ -1,9 +1,10 @@
 ---
 interface Props {
 	term?: string;
+	buttonText?: string;
 }
 
-const { term } = Astro.props;
+const { term, buttonText = "加载评论" } = Astro.props;
 ---
 
 <section aria-label="评论区" class="not-prose mt-16">
@@ -13,7 +14,7 @@ const { term } = Astro.props;
 			id="load-comments-btn"
 			type="button"
 		>
-			加载评论
+			{buttonText}
 		</button>
 	</div>
 	<div data-term={term} id="giscus-container"></div>

@@ -1,4 +1,5 @@
 ---
+import Giscus from "@/components/Giscus.astro";
 import PageLayout from "@/layouts/Base.astro";
 import { Content } from "../../content/about.md";
 
@@ -12,6 +13,7 @@ const meta = {
 	<h1 class="title mb-12">关于</h1>
 	<div class="prose prose-sm prose-cactus max-w-none">
 		<Content />
+		<Giscus buttonText="加载留言板" term="posts/comment-wall/" />
 	</div>
 </PageLayout>
 

@@ -25,6 +25,7 @@ export default defineConfig({
 	redirects: {
 		"/": "/posts/",
 		"/posts/blog-favorites/": "/favorites/",
+		"/posts/comment-wall/": "/about/",
 	},
 	image: {
 		domains: ["webmention.io"],
