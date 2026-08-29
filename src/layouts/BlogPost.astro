@@ -4,6 +4,7 @@ import { type CollectionEntry } from "astro:content";
 import Masthead from "@/components/blog/Masthead.astro";
 import WebMentions from "@/components/blog/webmentions/index.astro";
 import Giscus from "@/components/Giscus.astro";
+import "photoswipe/style.css";
 
 import BaseLayout from "./Base.astro";
 
@@ -93,6 +94,8 @@ const articleDate = updatedDate?.toISOString() ?? publishDate.toISOString();
 </BaseLayout>
 
 <script>
+	import PhotoSwipeLightbox from "photoswipe/lightbox";
+
 	const scrollBtn = document.getElementById("to-top-btn") as HTMLButtonElement;
 	const targetHeader = document.getElementById("blog-hero") as HTMLDivElement;
 
@@ -108,4 +111,46 @@ const articleDate = updatedDate?.toISOString() ?? publishDate.toISOString();
 
 	const observer = new IntersectionObserver(callback);
 	observer.observe(targetHeader);
+
+	// PhotoSwipe lightbox initialization
+	let lightbox: PhotoSwipeLightbox | null = null;
+	const pswp = import("photoswipe");
+
+	function initPhotoSwipe() {
+		if (lightbox) {
+			lightbox.destroy();
+			lightbox = null;
+		}
+
+		const images = document.querySelectorAll(".prose img");
+		if (!images.length) return;
+
+		lightbox = new PhotoSwipeLightbox({
+			gallery: ".prose",
+			children: "img",
+			pswpModule: () => pswp,
+			wheelToZoom: true,
+			arrowPrev: false,
+			arrowNext: false,
+			imageClickAction: "close",
+			tapAction: "close",
+			doubleTapAction: "zoom",
+			padding: { top: 20, bottom: 20, left: 20, right: 20 },
+		});
+
+		lightbox.addFilter("domItemData", (itemData, element) => {
+			if (element instanceof HTMLImageElement) {
+				itemData.src = element.src;
+				itemData.w = Number(element.naturalWidth || window.innerWidth);
+				itemData.h = Number(element.naturalHeight || window.innerHeight);
+				itemData.msrc = element.src;
+			}
+			return itemData;
+		});
+
+		lightbox.init();
+	}
+
+	initPhotoSwipe();
+	document.addEventListener("astro:page-load", initPhotoSwipe);
 </script>
