@@ -9,7 +9,7 @@ import { menuLinks, siteConfig } from "@/site.config";
 		<a
 			aria-current={Astro.url.pathname === "/posts/" || Astro.url.pathname === "/" ? "page" : false}
 			class="inline-flex items-center sm:relative sm:inline-block"
-			href="/posts/"
+			href="/"
 		>
 			<span class="text-accent-2 font-mono text-xl font-bold sm:text-2xl">{siteConfig.title}</span>
 		</a>
@@ -21,7 +21,12 @@ import { menuLinks, siteConfig } from "@/site.config";
 			{
 				menuLinks.map((link) => (
 					<a
-						aria-current={Astro.url.pathname === link.path ? "page" : false}
+						aria-current={
+							Astro.url.pathname === link.path ||
+							(link.path === "/posts/" && Astro.url.pathname === "/")
+								? "page"
+								: false
+						}
 						class="hover:text-accent aria-[current=page]:text-accent px-2 py-4 font-semibold sm:px-4 sm:py-0 sm:underline-offset-2 sm:hover:underline"
 						href={link.path}
 					>

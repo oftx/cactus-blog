@@ -23,7 +23,6 @@ import { expressiveCodeOptions, siteConfig } from "./src/site.config";
 export default defineConfig({
 	site: siteConfig.url,
 	redirects: {
-		"/": "/posts/",
 		"/posts/blog-favorites/": "/favorites/",
 		"/posts/comment-wall/": "/about/",
 	},

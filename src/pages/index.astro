@@ -1,3 +1,14 @@
 ---
-return Astro.redirect("/posts/");
+import PostList from "@/components/blog/PostList.astro";
+import PageLayout from "@/layouts/Base.astro";
+
+const meta = {
+	description: "所有发布的文章与记录",
+	title: "文章",
+};
 ---
+
+<PageLayout meta={meta}>
+	<h1 class="title mb-12">文章</h1>
+	<PostList />
+</PageLayout>
