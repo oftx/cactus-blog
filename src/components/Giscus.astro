@@ -1,0 +1,83 @@
+---
+interface Props {
+	term?: string;
+}
+
+const { term } = Astro.props;
+---
+
+<section aria-label="评论区" class="not-prose mt-16">
+	<div class="flex justify-center py-6" id="giscus-wrapper">
+		<button
+			class="border-quote-border hover:border-link hover:text-accent cursor-pointer rounded border px-4 py-2 text-sm font-semibold transition-colors"
+			id="load-comments-btn"
+			type="button"
+		>
+			加载评论
+		</button>
+	</div>
+	<div data-term={term} id="giscus-container"></div>
+</section>
+
+<script is:inline>
+	(() => {
+		const btn = document.getElementById("load-comments-btn");
+		const wrapper = document.getElementById("giscus-wrapper");
+		const container = document.getElementById("giscus-container");
+		if (!btn || !container) return;
+
+		let loaded = false;
+
+		btn.addEventListener("click", () => {
+			if (loaded) return;
+			loaded = true;
+			if (wrapper) wrapper.style.display = "none";
+
+			const rootTheme = document.documentElement.getAttribute("data-theme");
+			const theme = rootTheme === "dark" ? "noborder_dark" : "noborder_light";
+
+			const script = document.createElement("script");
+			script.src = "https://giscus.app/client.js";
+			script.setAttribute("data-repo", "oftx/discussions");
+			script.setAttribute("data-repo-id", "R_kgDOPfjIoQ");
+			script.setAttribute("data-category", "Comments");
+			script.setAttribute("data-category-id", "DIC_kwDOPfjIoc4CuR3d");
+
+			const term = container.getAttribute("data-term");
+			if (term) {
+				script.setAttribute("data-mapping", "specific");
+				script.setAttribute("data-term", term);
+			} else {
+				script.setAttribute("data-mapping", "pathname");
+			}
+
+			script.setAttribute("data-strict", "0");
+			script.setAttribute("data-reactions-enabled", "1");
+			script.setAttribute("data-emit-metadata", "0");
+			script.setAttribute("data-input-position", "top");
+			script.setAttribute("data-theme", theme);
+			script.setAttribute("data-lang", "zh-CN");
+			script.setAttribute("data-loading", "lazy");
+			script.crossOrigin = "anonymous";
+			script.async = true;
+
+			container.appendChild(script);
+		});
+
+		const observer = new MutationObserver(() => {
+			const currentTheme = document.documentElement.getAttribute("data-theme");
+			const giscusTheme = currentTheme === "dark" ? "noborder_dark" : "noborder_light";
+			const iframe = document.querySelector("iframe.giscus-frame");
+			if (iframe && iframe.contentWindow) {
+				iframe.contentWindow.postMessage(
+					{ giscus: { setConfig: { theme: giscusTheme } } },
+					"https://giscus.app",
+				);
+			}
+		});
+		observer.observe(document.documentElement, {
+			attributes: true,
+			attributeFilter: ["data-theme"],
+		});
+	})();
+</script>
