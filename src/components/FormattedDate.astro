@@ -26,27 +26,27 @@ if (includeTime) {
 }
 ---
 
-<time datetime={ISO} title={ISO} data-include-time={includeTime ? "true" : undefined} {...attrs}>{postDate}</time>
+<time datetime={ISO} title={ISO} data-include-time={includeTime ? "true" : undefined} {...attrs}
+	>{postDate}</time
+>
 
-{
-	includeTime && (
-		<script is:inline>
-			(() => {
-				document.querySelectorAll('time[data-include-time="true"]').forEach((el) => {
-					const dt = el.getAttribute("datetime");
-					if (!dt) return;
-					const d = new Date(dt);
-					if (isNaN(d.getTime())) return;
-					const pad = (n) => String(n).padStart(2, "0");
-					const year = d.getFullYear();
-					const month = pad(d.getMonth() + 1);
-					const day = pad(d.getDate());
-					const hours = pad(d.getHours());
-					const minutes = pad(d.getMinutes());
-					const seconds = pad(d.getSeconds());
-					el.textContent = `${year}/${month}/${day} ${hours}:${minutes}:${seconds}`;
-				});
-			})();
-		</script>
-	)
-}
+<script is:inline>
+	(() => {
+		const els = document.querySelectorAll('time[data-include-time="true"]');
+		if (!els.length) return;
+		const pad = (n) => String(n).padStart(2, "0");
+		els.forEach((el) => {
+			const dt = el.getAttribute("datetime");
+			if (!dt) return;
+			const d = new Date(dt);
+			if (isNaN(d.getTime())) return;
+			const Y = d.getFullYear();
+			const M = pad(d.getMonth() + 1);
+			const D = pad(d.getDate());
+			const h = pad(d.getHours());
+			const m = pad(d.getMinutes());
+			const s = pad(d.getSeconds());
+			el.textContent = `${Y}/${M}/${D} ${h}:${m}:${s}`;
+		});
+	})();
+</script>

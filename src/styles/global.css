@@ -152,6 +152,10 @@
 	.title {
 		@apply text-accent-2 text-2xl font-semibold;
 	}
+
+	.prose blockquote a {
+		color: inherit;
+	}
 }
 
 @utility prose {

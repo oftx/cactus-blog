@@ -30,6 +30,9 @@ export default {
 						"blockquote p:last-of-type::after": {
 							content: "none",
 						},
+						"blockquote a": {
+							color: "inherit",
+						},
 						ol: {
 							listStyleType: "none",
 							counterReset: "cactus-ol-counter",
@@ -133,6 +136,9 @@ export default {
 				},
 				sm: {
 					css: {
+						"blockquote a": {
+							color: "inherit",
+						},
 						code: {
 							fontSize: "85%",
 							fontWeight: "400",
