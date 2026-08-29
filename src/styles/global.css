@@ -182,15 +182,17 @@
 		color: var(--color-link);
 	}
 
-	/* 文章列表同日期 hover 互斥展示 */
-	li[data-date-group][data-hide-default="true"] time {
-		opacity: 0;
-	}
-	li[data-date-group][data-group-hover="true"] time {
-		opacity: 0;
-	}
-	li[data-date-group][data-active-row="true"] time {
-		opacity: 1;
+	/* 文章列表同日期 hover 互斥展示（仅在 sm 及以上屏幕生效，窄屏/移动端全量展示） */
+	@media (width >= 40rem) {
+		li[data-date-group][data-hide-default="true"] time {
+			opacity: 0;
+		}
+		li[data-date-group][data-group-hover="true"] time {
+			opacity: 0;
+		}
+		li[data-date-group][data-active-row="true"] time {
+			opacity: 1;
+		}
 	}
 }
 

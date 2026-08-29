@@ -98,6 +98,7 @@ const paginationProps = {
 <script is:inline>
 	(() => {
 		const handleEnter = (e) => {
+			if (window.innerWidth < 640) return;
 			const target = e.target;
 			if (!target || !(target instanceof Element)) return;
 			const li = target.closest("li[data-date-group]");
@@ -120,6 +121,7 @@ const paginationProps = {
 		};
 
 		const handleLeave = (e) => {
+			if (window.innerWidth < 640) return;
 			const target = e.target;
 			if (!target || !(target instanceof Element)) return;
 			const li = target.closest("li[data-date-group]");
