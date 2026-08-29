@@ -5,12 +5,48 @@ import { getFormattedDate } from "@/utils/date";
 type Props = HTMLAttributes<"time"> & {
 	date: Date;
 	dateTimeOptions?: Intl.DateTimeFormatOptions;
+	includeTime?: boolean;
 };
 
-const { date, dateTimeOptions, ...attrs } = Astro.props;
+const { date, dateTimeOptions, includeTime = false, ...attrs } = Astro.props;
 
-const postDate = getFormattedDate(date, dateTimeOptions);
 const ISO = date.toISOString();
+
+// Initial format at build time
+let postDate = getFormattedDate(date, dateTimeOptions);
+if (includeTime) {
+	const pad = (n: number) => String(n).padStart(2, "0");
+	const year = date.getFullYear();
+	const month = pad(date.getMonth() + 1);
+	const day = pad(date.getDate());
+	const hours = pad(date.getHours());
+	const minutes = pad(date.getMinutes());
+	const seconds = pad(date.getSeconds());
+	postDate = `${year}/${month}/${day} ${hours}:${minutes}:${seconds}`;
+}
 ---
 
-<time datetime={ISO} title={ISO} {...attrs}>{postDate}</time>
+<time datetime={ISO} title={ISO} data-include-time={includeTime ? "true" : undefined} {...attrs}>{postDate}</time>
+
+{
+	includeTime && (
+		<script is:inline>
+			(() => {
+				document.querySelectorAll('time[data-include-time="true"]').forEach((el) => {
+					const dt = el.getAttribute("datetime");
+					if (!dt) return;
+					const d = new Date(dt);
+					if (isNaN(d.getTime())) return;
+					const pad = (n) => String(n).padStart(2, "0");
+					const year = d.getFullYear();
+					const month = pad(d.getMonth() + 1);
+					const day = pad(d.getDate());
+					const hours = pad(d.getHours());
+					const minutes = pad(d.getMinutes());
+					const seconds = pad(d.getSeconds());
+					el.textContent = `${year}/${month}/${day} ${hours}:${minutes}:${seconds}`;
+				});
+			})();
+		</script>
+	)
+}

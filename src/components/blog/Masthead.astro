@@ -5,12 +5,10 @@ import FormattedDate from "@/components/FormattedDate.astro";
 
 interface Props {
 	content: CollectionEntry<"post">;
-	readingTime: string;
 }
 
 const {
 	content: { data },
-	readingTime,
 } = Astro.props;
 ---
 
@@ -33,18 +31,9 @@ const {
 	{data.title}
 </h1>
 <div class="flex flex-wrap items-center gap-x-3 gap-y-2">
-	<p class="font-semibold">
-		<FormattedDate date={data.publishDate} /> /{" "}
-		{readingTime}
+	<p class="font-semibold text-muted">
+		<FormattedDate date={data.publishDate} includeTime />
 	</p>
-	{
-		data.updatedDate && (
-			<span class="bg-quote/5 text-quote rounded-lg px-2 py-1">
-				更新于：
-				<FormattedDate class="ms-1" date={data.updatedDate} />
-			</span>
-		)
-	}
 </div>
 {
 	!!data.tags?.length && (
