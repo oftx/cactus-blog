@@ -1,0 +1,1910 @@
+---
+title: Emoji 列表
+description: ""
+publishDate: 2025-08-20T20:55:15+08:00
+tags: []
+draft: false
+---
+
+- 😀 Grinning Face
+- 😃 Grinning Face With Big Eyes
+- 😄 Grinning Face With Smiling Eyes
+- 😁 Beaming Face With Smiling Eyes
+- 😆 Grinning Squinting Face
+- 😅 Grinning Face With Sweat
+- 🤣 Rolling on the Floor Laughing
+- 😂 Face With Tears of Joy
+- 🙂 Slightly Smiling Face
+- 🙃 Upside-Down Face
+- 🫠 Melting Face
+- 😉 Winking Face
+- 😊 Smiling Face With Smiling Eyes
+- 😇 Smiling Face With Halo
+- 🥰 Smiling Face With Hearts
+- 😍 Smiling Face With Heart-Eyes
+- 🤩 Star-Struck
+- 😘 Face Blowing a Kiss
+- 😗 Kissing Face
+- ☺️ Smiling Face
+- 😚 Kissing Face With Closed Eyes
+- 😙 Kissing Face With Smiling Eyes
+- 🥲 Smiling Face With Tear
+- 😋 Face Savoring Food
+- 😛 Face With Tongue
+- 😜 Winking Face With Tongue
+- 🤪 Zany Face
+- 😝 Squinting Face With Tongue
+- 🤑 Money-Mouth Face
+- 🤗 Hugging Face
+- 🤭 Face With Hand Over Mouth
+- 🫢 Face With Open Eyes And Hand Over Mouth
+- 🫣 Face With Peeking Eye
+- 🤫 Shushing Face
+- 🤔 Thinking Face
+- 🫡 Saluting Face
+- 🤐 Zipper-Mouth Face
+- 🤨 Face With Raised Eyebrow
+- 😐 Neutral Face
+- 😑 Expressionless Face
+- 😶 Face Without Mouth
+- 🫥 Dotted Line Face
+- 😶‍🌫️ Face in clouds
+- 😏 Smirking Face
+- 😒 Unamused Face
+- 🙄 Face With Rolling Eyes
+- 😬 Grimacing Face
+- 😮‍💨 Face exhaling
+- 🤥 Lying Face
+- 🫨 Shaking Face
+- 🙂‍↔️ Head Shaking Horizontally
+- 🙂‍↕️ Head Shaking Vertically
+- 😌 Relieved Face
+- 😔 Pensive Face
+- 😪 Sleepy Face
+- 🤤 Drooling Face
+- 😴 Sleeping Face
+- 😷 Face With Medical Mask
+- 🤒 Face With Thermometer
+- 🤕 Face With Head-Bandage
+- 🤢 Nauseated Face
+- 🤮 Face Vomiting
+- 🤧 Sneezing Face
+- 🥵 Hot Face
+- 🥶 Cold Face
+- 🥴 Woozy Face
+- 😵 Dizzy Face
+- 😵‍💫 Face with spiral eyes
+- 🤯 Exploding Head
+- 🤠 Cowboy Hat Face
+- 🥳 Partying Face
+- 🥸 Disguised Face
+- 😎 Smiling Face With Sunglasses
+- 🤓 Nerd Face
+- 🧐 Face With Monocle
+- 😕 Confused Face
+- 🫤 Face With Diagonal Mouth
+- 😟 Worried Face
+- 🙁 Slightly Frowning Face
+- ☹️ Frowning Face
+- 😮 Face With Open Mouth
+- 😯 Hushed Face
+- 😲 Astonished Face
+- 😳 Flushed Face
+- 🥺 Pleading Face
+- 🥹 Face Holding Back Tears
+- 😦 Frowning Face With Open Mouth
+- 😧 Anguished Face
+- 😨 Fearful Face
+- 😰 Anxious Face With Sweat
+- 😥 Sad But Relieved Face
+- 😢 Crying Face
+- 😭 Loudly Crying Face
+- 😱 Face Screaming in Fear
+- 😖 Confounded Face
+- 😣 Persevering Face
+- 😞 Disappointed Face
+- 😓 Downcast Face With Sweat
+- 😩 Weary Face
+- 😫 Tired Face
+- 🥱 Yawning Face
+- 😤 Face With Steam From Nose
+- 😡 Pouting Face
+- 😠 Angry Face
+- 🤬 Face With Symbols On Mouth
+- 😈 Smiling Face With Horns
+- 👿 Angry Face With Horns
+- 💀 Skull
+- ☠️ Skull and Crossbones
+- 💩 Pile of Poo
+- 🤡 Clown Face
+- 👹 Ogre
+- 👺 Goblin
+- 👻 Ghost
+- 👽 Alien
+- 👾 Alien Monster
+- 🤖 Robot
+- 😺 Grinning Cat
+- 😸 Grinning Cat With Smiling Eyes
+- 😹 Cat With Tears Of Joy
+- 😻 Smiling Cat With Heart-Eyes
+- 😼 Cat With Wry Smile
+- 😽 Kissing Cat
+- 🙀 Weary Cat
+- 😿 Crying Cat
+- 😾 Pouting Cat
+- 🙈 See-No-Evil Monkey
+- 🙉 Hear-no-evil Monkey
+- 🙊 Speak-No-Evil Monkey
+- 💋 Kiss Mark
+- 💯 Hundred Points
+- 💢 Anger Symbol
+- 💥 Collision
+- 💫 Dizzy
+- 💦 Sweat Droplets
+- 💨 Dashing Away
+- 🕳️ Hole
+- 💬 Speech Balloon
+- 👁️‍🗨️ Eye In Speech Bubble
+- 🗨️ Left Speech Bubble
+- 🗯️ Right Anger Bubble
+- 💭 Thought Balloon
+- 💤 Zzz
+- 💌 Love Letter
+- 💘 Heart With Arrow
+- 💝 Heart With Ribbon
+- 💖 Sparkling Heart
+- 💗 Growing Heart
+- 💓 Beating Heart
+- 💞 Revolving Hearts
+- 💕 Two Hearts
+- 💟 Heart Decoration
+- ❣️ Heart Exclamation
+- 💔 Broken Heart
+- ❤️‍🔥 Heart on fire
+- ❤️‍🩹 Mending heart
+- ❤️ Red Heart
+- 🧡 Orange Heart
+- 💛 Yellow Heart
+- 💚 Green Heart
+- 💙 Blue Heart
+- 💜 Purple Heart
+- 🤎 Brown Heart
+- 🖤 Black Heart
+- 🤍 White Heart
+- 🩷 Pink Heart
+- 🩵 Light Blue Heart
+- 🩶 Grey Heart
+- 👋 Waving Hand
+- 🤚 Raised Back of Hand
+- 🖐️ Hand With Fingers Splayed
+- ✋ Raised Hand
+- 🖖 Vulcan Salute
+- 🫱 Rightwards Hand
+- 🫲 Leftwards Hand
+- 🫳 Palm Down Hand
+- 🫴 Palm Up Hand
+- 🫷 Leftwards Pushing Hand
+- 🫸 Rightwards Pushing Hand
+- 👌 OK Hand
+- 🤌 Pinched Fingers
+- 🤏 Pinching Hand
+- ✌️ Victory Hand
+- 🤞 Crossed Fingers
+- 🫰 Hand With Index Finger And Thumb Crossed
+- 🤟 Love-You Gesture
+- 🤘 Sign of the Horns
+- 🤙 Call Me Hand
+- 👈 Backhand Index Pointing Left
+- 👉 Backhand Index Pointing Right
+- 👆 Backhand Index Pointing Up
+- 🖕 Middle Finger
+- 👇 Backhand Index Pointing Down
+- ☝️ Index Pointing Up
+- 🫵 Index Pointing At The Viewer
+- 👍 Thumbs Up
+- 👎 Thumbs Down
+- ✊ Raised Fist
+- 👊 Oncoming Fist
+- 🤛 Left-Facing Fist
+- 🤜 Right-Facing Fist
+- 👏 Clapping Hands
+- 🙌 Raising Hands
+- 🫶 Heart Hands
+- 👐 Open Hands
+- 🤲 Palms Up Together
+- 🤝 Handshake
+- 🙏 Folded Hands
+- ✍️ Writing Hand
+- 💅 Nail Polish
+- 🤳 Selfie
+- 💪 Flexed Biceps
+- 🦾 Mechanical Arm
+- 🦿 Mechanical Leg
+- 🦵 Leg
+- 🦶 Foot
+- 👂 Ear
+- 🦻 Ear With Hearing Aid
+- 👃 Nose
+- 🧠 Brain
+- 🫀 Anatomical Heart
+- 🫁 Lungs
+- 🦷 Tooth
+- 🦴 Bone
+- 👀 Eyes
+- 👁️ Eye
+- 👅 Tongue
+- 👄 Mouth
+- 🫦 Biting Lip
+- 💆 Person Getting Massage
+- 💆‍♂️ Man Getting Massage
+- 💆‍♀️ Woman Getting Massage
+- 💇 Person Getting Haircut
+- 💇‍♂️ Man Getting Haircut
+- 💇‍♀️ Woman Getting Haircut
+- 🚶 Person Walking
+- 🚶‍♂️ Man Walking
+- 🚶‍♀️ Woman Walking
+- 🧍 Person Standing
+- 🧍‍♂️ Man Standing
+- 🧍‍♀️ Woman Standing
+- 🧎 Person Kneeling
+- 🧎‍♂️ Man Kneeling
+- 🧎‍♀️ Woman Kneeling
+- 🧑‍🦯 Person With White Cane
+- 👨‍🦯 Man With White Cane
+- 👩‍🦯 Woman With White Cane
+- 🧑‍🦼 Person In Motorized Wheelchair
+- 👨‍🦼 Man In Motorized Wheelchair
+- 👩‍🦼 Woman In Motorized Wheelchair
+- 🧑‍🦽 Person In Manual Wheelchair
+- 👨‍🦽 Man In Manual Wheelchair
+- 👩‍🦽 Woman In Manual Wheelchair
+- 🏃 Person Running
+- 🏃‍♂️ Man Running
+- 🏃‍♀️ Woman Running
+- 💃 Woman Dancing
+- 🕺 Man Dancing
+- 🕴️ Person In Suit Levitating
+- 👯 People With Bunny Ears
+- 👯‍♂️ Men With Bunny Ears
+- 👯‍♀️ Women With Bunny Ears
+- 🧖 Person In Steamy Room
+- 🧖‍♂️ Man In Steamy Room
+- 🧖‍♀️ Woman In Steamy Room
+- 🧗 Person Climbing
+- 🧗‍♂️ Man Climbing
+- 🧗‍♀️ Woman Climbing
+- 🚶‍➡️ Person Walking Facing Right
+- 🚶‍♀️‍➡️ Woman Walking Facing Right
+- 🚶‍♂️‍➡️ Man Walking Facing Right
+- 🧎‍➡️ Person Kneeling Facing Right
+- 🧎‍♀️‍➡️ Woman Kneeling Facing Right
+- 🧎‍♂️‍➡️ Man Kneeling Facing Right
+- 🧑‍🦯‍➡️ Person With White Cane Facing Right
+- 👨‍🦯‍➡️ Man With White Cane Facing Right
+- 👩‍🦯‍➡️ Woman With White Cane Facing Right
+- 🧑‍🦼‍➡️ Person In Motorized Wheelchair Facing Right
+- 👨‍🦼‍➡️ Man In Motorized Wheelchair Facing Right
+- 👩‍🦼‍➡️ Woman In Motorized Wheelchair Facing Right
+- 🧑‍🦽‍➡️ Person In Manual Wheelchair Facing Right
+- 👨‍🦽‍➡️ Man In Manual Wheelchair Facing Right
+- 👩‍🦽‍➡️ Woman In Manual Wheelchair Facing Right
+- 🏃‍➡️ Person Running Facing Right
+- 🏃‍♀️‍➡️ Woman Running Facing Right
+- 🏃‍♂️‍➡️ Man Running Facing Right
+- 🙍 Person Frowning
+- 🙍‍♂️ Man Frowning
+- 🙍‍♀️ Woman Frowning
+- 🙎 Person Pouting
+- 🙎‍♂️ Man Pouting
+- 🙎‍♀️ Woman Pouting
+- 🙅 Person Gesturing NO
+- 🙅‍♂️ Man Gesturing NO
+- 🙅‍♀️ Woman Gesturing NO
+- 🙆 Person Gesturing OK
+- 🙆‍♂️ Man Gesturing OK
+- 🙆‍♀️ Woman Gesturing OK
+- 💁 Person Tipping Hand
+- 💁‍♂️ Man Tipping Hand
+- 💁‍♀️ Woman Tipping Hand
+- 🙋 Person Raising Hand
+- 🙋‍♂️ Man Raising Hand
+- 🙋‍♀️ Woman Raising Hand
+- 🧏 Deaf Person
+- 🧏‍♂️ Deaf Man
+- 🧏‍♀️ Deaf Woman
+- 🙇 Person Bowing
+- 🙇‍♂️ Man Bowing
+- 🙇‍♀️ Woman Bowing
+- 🤦 Person Facepalming
+- 🤦‍♂️ Man Facepalming
+- 🤦‍♀️ Woman Facepalming
+- 🤷 Person Shrugging
+- 🤷‍♂️ Man Shrugging
+- 🤷‍♀️ Woman Shrugging
+- 🧑‍⚕️ Health Worker
+- 👨‍⚕️ ️Man Health Worker
+- 👩‍⚕️ ️Woman Health Worker
+- 🧑‍🎓 Student
+- 👨‍🎓 Man Student
+- 👩‍🎓 Woman Student
+- 🧑‍🏫 Teacher
+- 👨‍🏫 Man Teacher
+- 👩‍🏫 Woman Teacher
+- 🧑‍⚖️ Judge
+- 👨‍⚖️ ️Man Judge
+- 👩‍⚖️ ️Woman Judge
+- 🧑‍🌾 Farmer
+- 👨‍🌾 Man Farmer
+- 👩‍🌾 Woman Farmer
+- 🧑‍🍳 Cook
+- 👨‍🍳 Man Cook
+- 👩‍🍳 Woman Cook
+- 🧑‍🔧 Mechanic
+- 👨‍🔧 Man Mechanic
+- 👩‍🔧 Woman Mechanic
+- 🧑‍🏭 Factory Worker
+- 👨‍🏭 Man Factory Worker
+- 👩‍🏭 Woman Factory Worker
+- 🧑‍💼 Office Worker
+- 👨‍💼 Man Office Worker
+- 👩‍💼 Woman Office Worker
+- 🧑‍🔬 Scientist
+- 👨‍🔬 Man Scientist
+- 👩‍🔬 Woman Scientist
+- 🧑‍💻 Technologist
+- 👨‍💻 Man Technologist
+- 👩‍💻 Woman Technologist
+- 🧑‍🎤 Singer
+- 👨‍🎤 Man Singer
+- 👩‍🎤 Woman Singer
+- 🧑‍🎨 Artist
+- 👨‍🎨 Man Artist
+- 👩‍🎨 Woman Artist
+- 🧑‍✈️ Pilot
+- 👨‍✈️ ️Man Pilot
+- 👩‍✈️ ️Woman Pilot
+- 🧑‍🚀 Astronaut
+- 👨‍🚀 Man Astronaut
+- 👩‍🚀 Woman Astronaut
+- 🧑‍🚒 Firefighter
+- 👨‍🚒 Man Firefighter
+- 👩‍🚒 Woman Firefighter
+- 👮 Police Officer
+- 👮‍♂️ Man Police Officer
+- 👮‍♀️ Woman Police Officer
+- 🕵️ Detective
+- 🕵️‍♂️ Man Detective
+- 🕵️‍♀️ Woman Detective
+- 💂 Guard
+- 💂‍♂️ Man Guard
+- 💂‍♀️ Woman Guard
+- 🥷 Ninja
+- 👷 Construction Worker
+- 👷‍♂️ Man Construction Worker
+- 👷‍♀️ Woman Construction Worker
+- 🫅 Person With Crown
+- 🤴 Prince
+- 👸 Princess
+- 👳 Person Wearing Turban
+- 👳‍♂️ Man Wearing Turban
+- 👳‍♀️ Woman Wearing Turban
+- 👲 Person With Skullcap
+- 🧕 Woman With Headscarf
+- 🤵 Person In Tuxedo
+- 🤵‍♂️ Man In Tuxedo
+- 🤵‍♀️ Woman In Tuxedo
+- 👰 Person With Veil
+- 👰‍♂️ Man With Veil
+- 👰‍♀️ Woman With Veil
+- 🤰 Pregnant Woman
+- 🫃 Pregnant Man
+- 🫄 Pregnant Person
+- 🤱 Breast-Feeding
+- 👩‍🍼 Woman Feeding Baby
+- 👨‍🍼 Man Feeding Baby
+- 🧑‍🍼 Person Feeding Baby
+- 👼 Baby Angel
+- 🎅 Santa Claus
+- 🤶 Mrs. Claus
+- 🧑‍🎄 Mx Claus
+- 🦸 Superhero
+- 🦸‍♂️ Man Superhero
+- 🦸‍♀️ Woman Superhero
+- 🦹 Supervillain
+- 🦹‍♂️ Man Supervillain
+- 🦹‍♀️ Woman Supervillain
+- 🧙 Mage
+- 🧙‍♂️ Man Mage
+- 🧙‍♀️ Woman Mage
+- 🧚 Fairy
+- 🧚‍♂️ Man Fairy
+- 🧚‍♀️ Woman Fairy
+- 🧛 Vampire
+- 🧛‍♂️ Man Vampire
+- 🧛‍♀️ Woman Vampire
+- 🧜 Merperson
+- 🧜‍♂️ Merman
+- 🧜‍♀️ Mermaid
+- 🧝 Elf
+- 🧝‍♂️ Man Elf
+- 🧝‍♀️ Woman Elf
+- 🧞 Genie
+- 🧞‍♂️ Man Genie
+- 🧞‍♀️ Woman Genie
+- 🧟 Zombie
+- 🧟‍♂️ Man Zombie
+- 🧟‍♀️ Woman Zombie
+- 🧌 Troll
+- 👶 Baby
+- 🧒 Child
+- 👦 Boy
+- 👧 Girl
+- 🧑 Person
+- 👱 Person: Blond Hair
+- 👨 Man
+- 🧔 Person: Beard
+- 🧔‍♂️ Man: Beard
+- 🧔‍♀️ Woman: Beard
+- 👨‍🦰 Man: Red Hair
+- 👨‍🦱 Man: Curly Hair
+- 👨‍🦳 Man: White Hair
+- 👨‍🦲 Man: Bald
+- 👩 Woman
+- 👩‍🦰 Woman: Red Hair
+- 🧑‍🦰 Person: Red Hair
+- 👩‍🦱 Woman: Curly Hair
+- 🧑‍🦱 Person: Curly Hair
+- 👩‍🦳 Woman: White Hair
+- 🧑‍🦳 Person: White Hair
+- 👩‍🦲 Woman: Bald
+- 🧑‍🦲 Person: Bald
+- 👱‍♀️ Woman: Blond Hair
+- 👱‍♂️ Man: Blond Hair
+- 🧓 Older Person
+- 👴 Old Man
+- 👵 Old Woman
+- 🤺 Person Fencing
+- 🏇 Horse Racing
+- ⛷️ Skier
+- 🏂 Snowboarder
+- 🏌️ Person Golfing
+- 🏌️‍♂️ Man Golfing
+- 🏌️‍♀️ Woman Golfing
+- 🏄 Person Surfing
+- 🏄‍♂️ Man Surfing
+- 🏄‍♀️ Woman Surfing
+- 🚣 Person Rowing Boat
+- 🚣‍♂️ Man Rowing Boat
+- 🚣‍♀️ Woman Rowing Boat
+- 🏊 Person Swimming
+- 🏊‍♂️ Man Swimming
+- 🏊‍♀️ Woman Swimming
+- ⛹️ Person Bouncing Ball
+- ⛹️‍♂️ Man Bouncing Ball
+- ⛹️‍♀️ Woman Bouncing Ball
+- 🏋️ Person Lifting Weights
+- 🏋️‍♂️ Man Lifting Weights
+- 🏋️‍♀️ Woman Lifting Weights
+- 🚴 Person Biking
+- 🚴‍♂️ Man Biking
+- 🚴‍♀️ Woman Biking
+- 🚵 Person Mountain Biking
+- 🚵‍♂️ Man Mountain Biking
+- 🚵‍♀️ Woman Mountain Biking
+- 🤸 Person Cartwheeling
+- 🤸‍♂️ Man Cartwheeling
+- 🤸‍♀️ Woman Cartwheeling
+- 🤼 People Wrestling
+- 🤼‍♂️ Men Wrestling
+- 🤼‍♀️ Women Wrestling
+- 🤽 Person Playing Water Polo
+- 🤽‍♂️ Man Playing Water Polo
+- 🤽‍♀️ Woman Playing Water Polo
+- 🤾 Person Playing Handball
+- 🤾‍♂️ Man Playing Handball
+- 🤾‍♀️ Woman Playing Handball
+- 🤹 Person Juggling
+- 🤹‍♂️ Man Juggling
+- 🤹‍♀️ Woman Juggling
+- 🧘 Person In Lotus Position
+- 🧘‍♂️ Man In Lotus Position
+- 🧘‍♀️ Woman In Lotus Position
+- 🛀 Person Taking Bath
+- 🛌 Person in Bed
+- 🧑‍🤝‍🧑 People Holding Hands
+- 👭 Women Holding Hands
+- 👫 Woman And Man Holding Hands
+- 👬 Men Holding Hands
+- 💏 Kiss
+- 👩‍❤️‍💋‍👨 Kiss: Woman, Man
+- 👨‍❤️‍💋‍👨 Kiss: Man, Man
+- 👩‍❤️‍💋‍👩 Kiss: Woman, Woman
+- 💑 Couple With Heart
+- 👩‍❤️‍👨 Couple With Heart: Woman, Man
+- 👨‍❤️‍👨 Couple With Heart: Man, Man
+- 👩‍❤️‍👩 Couple With Heart: Woman, Woman
+- 👪 Family
+- 👨‍👩‍👦 Family: Man, Woman, Boy
+- 👨‍👩‍👧 Family: Man, Woman, Girl
+- 👨‍👩‍👧‍👦 Family: Man, Woman, Girl, Boy
+- 👨‍👩‍👦‍👦 Family: Man, Woman, Boy, Boy
+- 👨‍👩‍👧‍👧 Family: Man, Woman, Girl, Girl
+- 👨‍👨‍👦 Family: Man, Man, Boy
+- 👨‍👨‍👧 Family: Man, Man, Girl
+- 👨‍👨‍👧‍👦 Family: Man, Man, Girl, Boy
+- 👨‍👨‍👦‍👦 Family: Man, Man, Boy, Boy
+- 👨‍👨‍👧‍👧 Family: Man, Man, Girl, Girl
+- 👩‍👩‍👦 Family: Woman, Woman, Boy
+- 👩‍👩‍👧 Family: Woman, Woman, Girl
+- 👩‍👩‍👧‍👦 Family: Woman, Woman, Girl, Boy
+- 👩‍👩‍👦‍👦 Family: Woman, Woman, Boy, Boy
+- 👩‍👩‍👧‍👧 Family: Woman, Woman, Girl, Girl
+- 👨‍👦 Family: Man, Boy
+- 👨‍👦‍👦 Family: Man, Boy, Boy
+- 👨‍👧 Family: Man, Girl
+- 👨‍👧‍👦 Family: Man, Girl, Boy
+- 👨‍👧‍👧 Family: Man, Girl, Girl
+- 👩‍👦 Family: Woman, Boy
+- 👩‍👦‍👦 Family: Woman, Boy, Boy
+- 👩‍👧 Family: Woman, Girl
+- 👩‍👧‍👦 Family: Woman, Girl, Boy
+- 👩‍👧‍👧 Family: Woman, Girl, Girl
+- 🗣️ Speaking Head
+- 👤 Bust in Silhouette
+- 👥 Busts in Silhouette
+- 🫂 People Hugging
+- 👣 Footprints
+- 🧑‍🧑‍🧒 Family: Adult, Adult, Child
+- 🧑‍🧑‍🧒‍🧒 Family: Adult, Adult, Child, Child
+- 🧑‍🧒 Family: Adult, Child
+- 🧑‍🧒‍🧒 Family: Adult, Child, Child
+- 🐵 Monkey Face
+- 🐒 Monkey
+- 🦍 Gorilla
+- 🦧 Orangutan
+- 🐶 Dog Face
+- 🐕 Dog
+- 🦮 Guide Dog
+- 🐕‍🦺 Service Dog
+- 🐩 Poodle
+- 🐺 Wolf
+- 🦊 Fox
+- 🦝 Raccoon
+- 🐱 Cat Face
+- 🐈 Cat
+- 🐈‍⬛ Black Cat
+- 🦁 Lion
+- 🐯 Tiger Face
+- 🐅 Tiger
+- 🐆 Leopard
+- 🐴 Horse Face
+- 🐎 Horse
+- 🦄 Unicorn
+- 🦓 Zebra
+- 🦌 Deer
+- 🦬 Bison
+- 🐮 Cow Face
+- 🐂 Ox
+- 🐃 Water Buffalo
+- 🐄 Cow
+- 🐷 Pig Face
+- 🐖 Pig
+- 🐗 Boar
+- 🐽 Pig Nose
+- 🐏 Ram
+- 🐑 Ewe
+- 🐐 Goat
+- 🐪 Camel
+- 🐫 Two-Hump Camel
+- 🦙 Llama
+- 🦒 Giraffe
+- 🐘 Elephant
+- 🦣 Mammoth
+- 🦏 Rhinoceros
+- 🦛 Hippopotamus
+- 🐭 Mouse Face
+- 🐁 Mouse
+- 🐀 Rat
+- 🐹 Hamster
+- 🐰 Rabbit Face
+- 🐇 Rabbit
+- 🐿️ Chipmunk
+- 🦫 Beaver
+- 🦔 Hedgehog
+- 🦇 Bat
+- 🐻 Bear
+- 🐻‍❄️ Polar Bear
+- 🐨 Koala
+- 🐼 Panda
+- 🦥 Sloth
+- 🦦 Otter
+- 🦨 Skunk
+- 🦘 Kangaroo
+- 🦡 Badger
+- 🐾 Paw Prints
+- 🫎 Moose
+- 🫏 Donkey
+- 🦃 Turkey
+- 🐔 Chicken
+- 🐓 Rooster
+- 🐣 Hatching Chick
+- 🐤 Baby Chick
+- 🐥 Front-Facing Baby Chick
+- 🐦 Bird
+- 🐧 Penguin
+- 🕊️ Dove
+- 🦅 Eagle
+- 🦆 Duck
+- 🦢 Swan
+- 🦉 Owl
+- 🦤 Dodo
+- 🪶 Feather
+- 🦩 Flamingo
+- 🦚 Peacock
+- 🦜 Parrot
+- 🪽 Wing
+- 🐦‍⬛ Black Bird
+- 🪿 Goose
+- 🐦‍🔥 Phoenix
+- 🐸 Frog
+- 🐊 Crocodile
+- 🐢 Turtle
+- 🦎 Lizard
+- 🐍 Snake
+- 🐲 Dragon Face
+- 🐉 Dragon
+- 🦕 Sauropod
+- 🦖 T-Rex
+- 🐳 Spouting Whale
+- 🐋 Whale
+- 🐬 Dolphin
+- 🦭 Seal
+- 🐟 Fish
+- 🐠 Tropical Fish
+- 🐡 Blowfish
+- 🦈 Shark
+- 🐙 Octopus
+- 🐚 Spiral Shell
+- 🪸 Coral
+- 🪼 Jellyfish
+- 🐌 Snail
+- 🦋 Butterfly
+- 🐛 Bug
+- 🐜 Ant
+- 🐝 Honeybee
+- 🪲 Beetle
+- 🐞 Lady Beetle
+- 🦗 Cricket
+- 🪳 Cockroach
+- 🕷️ Spider
+- 🕸️ Spider Web
+- 🦂 Scorpion
+- 🦟 Mosquito
+- 🪰 Fly
+- 🪱 Worm
+- 🦠 Microbe
+- 💐 Bouquet
+- 🌸 Cherry Blossom
+- 💮 White Flower
+- 🪷 Lotus
+- 🏵️ Rosette
+- 🌹 Rose
+- 🥀 Wilted Flower
+- 🌺 Hibiscus
+- 🌻 Sunflower
+- 🌼 Blossom
+- 🌷 Tulip
+- 🪻 Hyacinth
+- 🌱 Seedling
+- 🪴 Potted Plant
+- 🌲 Evergreen Tree
+- 🌳 Deciduous Tree
+- 🌴 Palm Tree
+- 🌵 Cactus
+- 🌾 Sheaf of Rice
+- 🌿 Herb
+- ☘️ Shamrock
+- 🍀 Four Leaf Clover
+- 🍁 Maple Leaf
+- 🍂 Fallen Leaf
+- 🍃 Leaf Fluttering in Wind
+- 🪹 Empty Nest
+- 🪺 Nest With Eggs
+- 🍄 Mushroom
+- 🍇 Grapes
+- 🍈 Melon
+- 🍉 Watermelon
+- 🍊 Tangerine
+- 🍋 Lemon
+- 🍌 Banana
+- 🍍 Pineapple
+- 🥭 Mango
+- 🍎 Red Apple
+- 🍏 Green Apple
+- 🍐 Pear
+- 🍑 Peach
+- 🍒 Cherries
+- 🍓 Strawberry
+- 🫐 Blueberries
+- 🥝 Kiwi Fruit
+- 🍅 Tomato
+- 🫒 Olive
+- 🥥 Coconut
+- 🍋‍🟩 Lime
+- 🥑 Avocado
+- 🍆 Eggplant
+- 🥔 Potato
+- 🥕 Carrot
+- 🌽 Ear of Corn
+- 🌶️ Hot Pepper
+- 🫑 Bell Pepper
+- 🥒 Cucumber
+- 🥬 Leafy Green
+- 🥦 Broccoli
+- 🧄 Garlic
+- 🧅 Onion
+- 🥜 Peanuts
+- 🫘 Beans
+- 🌰 Chestnut
+- 🫚 Ginger Root
+- 🫛 Pea Pod
+- 🍄‍🟫 Brown Mushroom
+- 🍞 Bread
+- 🥐 Croissant
+- 🥖 Baguette Bread
+- 🫓 Flatbread
+- 🥨 Pretzel
+- 🥯 Bagel
+- 🥞 Pancakes
+- 🧇 Waffle
+- 🧀 Cheese Wedge
+- 🍖 Meat on Bone
+- 🍗 Poultry Leg
+- 🥩 Cut Of Meat
+- 🥓 Bacon
+- 🍔 Hamburger
+- 🍟 French Fries
+- 🍕 Pizza
+- 🌭 Hot Dog
+- 🥪 Sandwich
+- 🌮 Taco
+- 🌯 Burrito
+- 🫔 Tamale
+- 🥙 Stuffed Flatbread
+- 🧆 Falafel
+- 🥚 Egg
+- 🍳 Cooking
+- 🥘 Shallow Pan Of Food
+- 🍲 Pot of Food
+- 🫕 Fondue
+- 🥣 Bowl With Spoon
+- 🥗 Green Salad
+- 🍿 Popcorn
+- 🧈 Butter
+- 🧂 Salt
+- 🥫 Canned Food
+- 🍱 Bento Box
+- 🍘 Rice Cracker
+- 🍙 Rice Ball
+- 🍚 Cooked Rice
+- 🍛 Curry Rice
+- 🍜 Steaming Bowl
+- 🍝 Spaghetti
+- 🍠 Roasted Sweet Potato
+- 🍢 Oden
+- 🍣 Sushi
+- 🍤 Fried Shrimp
+- 🍥 Fish Cake With Swirl
+- 🥮 Moon Cake
+- 🍡 Dango
+- 🥟 Dumpling
+- 🥠 Fortune Cookie
+- 🥡 Takeout Box
+- 🦀 Crab
+- 🦞 Lobster
+- 🦐 Shrimp
+- 🦑 Squid
+- 🦪 Oyster
+- 🍦 Soft Ice Cream
+- 🍧 Shaved Ice
+- 🍨 Ice Cream
+- 🍩 Doughnut
+- 🍪 Cookie
+- 🎂 Birthday Cake
+- 🍰 Shortcake
+- 🧁 Cupcake
+- 🥧 Pie
+- 🍫 Chocolate Bar
+- 🍬 Candy
+- 🍭 Lollipop
+- 🍮 Custard
+- 🍯 Honey Pot
+- 🍼 Baby Bottle
+- 🥛 Glass of Milk
+- ☕ Hot Beverage
+- 🫖 Teapot
+- 🍵 Teacup Without Handle
+- 🍶 Sake
+- 🍾 Bottle With Popping Cork
+- 🍷 Wine Glass
+- 🍸 Cocktail Glass
+- 🍹 Tropical Drink
+- 🍺 Beer Mug
+- 🍻 Clinking Beer Mugs
+- 🥂 Clinking Glasses
+- 🥃 Tumbler Glass
+- 🫗 Pouring Liquid
+- 🥤 Cup With Straw
+- 🧋 Bubble Tea
+- 🧃 Beverage Box
+- 🧉 Mate
+- 🧊 Ice
+- 🥢 Chopsticks
+- 🍽️ Fork and Knife With Plate
+- 🍴 Fork and Knife
+- 🥄 Spoon
+- 🔪 Kitchen Knife
+- 🫙 Jar
+- 🏺 Amphora
+- 🌍 Globe Showing Europe-Africa
+- 🌎 Globe Showing Americas
+- 🌏 Globe Showing Asia-Australia
+- 🌐 Globe With Meridians
+- 🗺️ World Map
+- 🗾 Map of Japan
+- 🧭 Compass
+- 🏔️ Snow-Capped Mountain
+- ⛰️ Mountain
+- 🌋 Volcano
+- 🗻 Mount Fuji
+- 🏕️ Camping
+- 🏖️ Beach With Umbrella
+- 🏜️ Desert
+- 🏝️ Desert Island
+- 🏞️ National Park
+- 🏟️ Stadium
+- 🏛️ Classical Building
+- 🏗️ Building Construction
+- 🧱 Brick
+- 🪨 Rock
+- 🪵 Wood
+- 🛖 Hut
+- 🏘️ Houses
+- 🏚️ Derelict House
+- 🏠 House
+- 🏡 House With Garden
+- 🏢 Office Building
+- 🏣 Japanese Post Office
+- 🏤 Post Office
+- 🏥 Hospital
+- 🏦 Bank
+- 🏨 Hotel
+- 🏩 Love Hotel
+- 🏪 Convenience Store
+- 🏫 School
+- 🏬 Department Store
+- 🏭 Factory
+- 🏯 Japanese Castle
+- 🏰 Castle
+- 💒 Wedding
+- 🗼 Tokyo Tower
+- 🗽 Statue of Liberty
+- ⛪ Church
+- 🕌 Mosque
+- 🛕 Hindu Temple
+- 🕍 Synagogue
+- ⛩️ Shinto Shrine
+- 🕋 Kaaba
+- ⛲ Fountain
+- ⛺ Tent
+- 🌁 Foggy
+- 🌃 Night With Stars
+- 🏙️ Cityscape
+- 🌄 Sunrise Over Mountains
+- 🌅 Sunrise
+- 🌆 Cityscape at Dusk
+- 🌇 Sunset
+- 🌉 Bridge at Night
+- ♨️ Hot Springs
+- 🎠 Carousel Horse
+- 🛝 Playground Slide
+- 🎡 Ferris Wheel
+- 🎢 Roller Coaster
+- 💈 Barber Pole
+- 🎪 Circus Tent
+- 🚂 Locomotive
+- 🚃 Railway Car
+- 🚄 High-Speed Train
+- 🚅 Bullet Train
+- 🚆 Train
+- 🚇 Metro
+- 🚈 Light Rail
+- 🚉 Station
+- 🚊 Tram
+- 🚝 Monorail
+- 🚞 Mountain Railway
+- 🚋 Tram Car
+- 🚌 Bus
+- 🚍 Oncoming Bus
+- 🚎 Trolleybus
+- 🚐 Minibus
+- 🚑 Ambulance
+- 🚒 Fire Engine
+- 🚓 Police Car
+- 🚔 Oncoming Police Car
+- 🚕 Taxi
+- 🚖 Oncoming Taxi
+- 🚗 Automobile
+- 🚘 Oncoming Automobile
+- 🚙 Sport Utility Vehicle
+- 🛻 Pickup Truck
+- 🚚 Delivery Truck
+- 🚛 Articulated Lorry
+- 🚜 Tractor
+- 🏎️ Racing Car
+- 🏍️ Motorcycle
+- 🛵 Motor Scooter
+- 🦽 Manual Wheelchair
+- 🦼 Motorized Wheelchair
+- 🛺 Auto Rickshaw
+- 🚲 Bicycle
+- 🛴 Kick Scooter
+- 🛹 Skateboard
+- 🛼 Roller Skate
+- 🚏 Bus Stop
+- 🛣️ Motorway
+- 🛤️ Railway Track
+- 🛢️ Oil Drum
+- ⛽ Fuel Pump
+- 🛞 Wheel
+- 🚨 Police Car Light
+- 🚥 Horizontal Traffic Light
+- 🚦 Vertical Traffic Light
+- 🛑 Stop Sign
+- 🚧 Construction
+- ⚓ Anchor
+- 🛟 Ring Buoy
+- ⛵ Sailboat
+- 🛶 Canoe
+- 🚤 Speedboat
+- 🛳️ Passenger Ship
+- ⛴️ Ferry
+- 🛥️ Motor Boat
+- 🚢 Ship
+- ✈️ Airplane
+- 🛩️ Small Airplane
+- 🛫 Airplane Departure
+- 🛬 Airplane Arrival
+- 🪂 Parachute
+- 💺 Seat
+- 🚁 Helicopter
+- 🚟 Suspension Railway
+- 🚠 Mountain Cableway
+- 🚡 Aerial Tramway
+- 🛰️ Satellite
+- 🚀 Rocket
+- 🛸 Flying Saucer
+- 🛎️ Bellhop Bell
+- 🧳 Luggage
+- ⌛ Hourglass Done
+- ⏳ Hourglass Not Done
+- ⌚ Watch
+- ⏰ Alarm Clock
+- ⏱️ Stopwatch
+- ⏲️ Timer Clock
+- 🕰️ Mantelpiece Clock
+- 🕛 Twelve O’clock
+- 🕧 Twelve-Thirty
+- 🕐 One O’clock
+- 🕜 One-Thirty
+- 🕑 Two O’clock
+- 🕝 Two-Thirty
+- 🕒 Three O’clock
+- 🕞 Three-Thirty
+- 🕓 Four O’clock
+- 🕟 Four-Thirty
+- 🕔 Five O’clock
+- 🕠 Five-Thirty
+- 🕕 Six O’clock
+- 🕡 Six-Thirty
+- 🕖 Seven O’clock
+- 🕢 Seven-Thirty
+- 🕗 Eight O’clock
+- 🕣 Eight-Thirty
+- 🕘 Nine O’clock
+- 🕤 Nine-Thirty
+- 🕙 Ten O’clock
+- 🕥 Ten-Thirty
+- 🕚 Eleven O’clock
+- 🕦 Eleven-Thirty
+- 🌑 New Moon
+- 🌒 Waxing Crescent Moon
+- 🌓 First Quarter Moon
+- 🌔 Waxing Gibbous Moon
+- 🌕 Full Moon
+- 🌖 Waning Gibbous Moon
+- 🌗 Last Quarter Moon
+- 🌘 Waning Crescent Moon
+- 🌙 Crescent Moon
+- 🌚 New Moon Face
+- 🌛 First Quarter Moon Face
+- 🌜 Last Quarter Moon Face
+- 🌡️ Thermometer
+- ☀️ Sun
+- 🌝 Full Moon Face
+- 🌞 Sun With Face
+- 🪐 Ringed Planet
+- ⭐ Star
+- 🌟 Glowing Star
+- 🌠 Shooting Star
+- 🌌 Milky Way
+- ☁️ Cloud
+- ⛅ Sun Behind Cloud
+- ⛈️ Cloud With Lightning and Rain
+- 🌤️ Sun Behind Small Cloud
+- 🌥️ Sun Behind Large Cloud
+- 🌦️ Sun Behind Rain Cloud
+- 🌧️ Cloud With Rain
+- 🌨️ Cloud With Snow
+- 🌩️ Cloud With Lightning
+- 🌪️ Tornado
+- 🌫️ Fog
+- 🌬️ Wind Face
+- 🌀 Cyclone
+- 🌈 Rainbow
+- 🌂 Closed Umbrella
+- ☂️ Umbrella
+- ☔ Umbrella With Rain Drops
+- ⛱️ Umbrella on Ground
+- ⚡ High Voltage
+- ❄️ Snowflake
+- ☃️ Snowman
+- ⛄ Snowman Without Snow
+- ☄️ Comet
+- 🔥 Fire
+- 💧 Droplet
+- 🌊 Water Wave
+- 🎃 Jack-O-Lantern
+- 🎄 Christmas Tree
+- 🎆 Fireworks
+- 🎇 Sparkler
+- 🧨 Firecracker
+- ✨ Sparkles
+- 🎈 Balloon
+- 🎉 Party Popper
+- 🎊 Confetti Ball
+- 🎋 Tanabata Tree
+- 🎍 Pine Decoration
+- 🎎 Japanese Dolls
+- 🎏 Carp Streamer
+- 🎐 Wind Chime
+- 🎑 Moon Viewing Ceremony
+- 🧧 Red Envelope
+- 🎀 Ribbon
+- 🎁 Wrapped Gift
+- 🎗️ Reminder Ribbon
+- 🎟️ Admission Tickets
+- 🎫 Ticket
+- 🎖️ Military Medal
+- 🏆 Trophy
+- 🏅 Sports Medal
+- 🥇 1st Place Medal
+- 🥈 2nd Place Medal
+- 🥉 3rd Place Medal
+- ⚽ Soccer Ball
+- ⚾ Baseball
+- 🥎 Softball
+- 🏀 Basketball
+- 🏐 Volleyball
+- 🏈 American Football
+- 🏉 Rugby Football
+- 🎾 Tennis
+- 🥏 Flying Disc
+- 🎳 Bowling
+- 🏏 Cricket Game
+- 🏑 Field Hockey
+- 🏒 Ice Hockey
+- 🥍 Lacrosse
+- 🏓 Ping Pong
+- 🏸 Badminton
+- 🥊 Boxing Glove
+- 🥋 Martial Arts Uniform
+- 🥅 Goal Net
+- ⛳ Flag In Hole
+- ⛸️ Ice Skate
+- 🎣 Fishing Pole
+- 🤿 Diving Mask
+- 🎽 Running Shirt
+- 🎿 Skis
+- 🛷 Sled
+- 🥌 Curling Stone
+- 🎯 Direct Hit
+- 🪀 Yo-Yo
+- 🪁 Kite
+- 🎱 Pool 8 Ball
+- 🔮 Crystal Ball
+- 🪄 Magic Wand
+- 🎮 Video Game
+- 🕹️ Joystick
+- 🎰 Slot Machine
+- 🎲 Game Die
+- 🧩 Puzzle Piece
+- 🧸 Teddy Bear
+- 🪅 Piñata
+- 🪩 Mirror Ball
+- 🪆 Nesting Dolls
+- ♠️ Spade Suit
+- ♥️ Heart Suit
+- ♦️ Diamond Suit
+- ♣️ Club Suit
+- ♟️ Chess Pawn
+- 🃏 Joker
+- 🀄 Mahjong Red Dragon
+- 🎴 Flower Playing Cards
+- 🔫 Pistol
+- 🎭 Performing Arts
+- 🖼️ Framed Picture
+- 🎨 Artist Palette
+- 🧵 Thread
+- 🪡 Sewing Needle
+- 🧶 Yarn
+- 🪢 Knot
+- 👓 Glasses
+- 🕶️ Sunglasses
+- 🥽 Goggles
+- 🥼 Lab Coat
+- 🦺 Safety Vest
+- 👔 Necktie
+- 👕 T-Shirt
+- 👖 Jeans
+- 🧣 Scarf
+- 🧤 Gloves
+- 🧥 Coat
+- 🧦 Socks
+- 👗 Dress
+- 👘 Kimono
+- 🥻 Sari
+- 🩱 One-Piece Swimsuit
+- 🩲 Briefs
+- 🩳 Shorts
+- 👙 Bikini
+- 👚 Woman’s Clothes
+- 👛 Purse
+- 👜 Handbag
+- 👝 Clutch Bag
+- 🛍️ Shopping Bags
+- 🎒 Backpack
+- 🩴 Thong Sandal
+- 👞 Man’s Shoe
+- 👟 Running Shoe
+- 🥾 Hiking Boot
+- 🥿 Flat Shoe
+- 👠 High-heeled Shoe
+- 👡 Woman’s Sandal
+- 🩰 Ballet Shoes
+- 👢 Woman’s Boot
+- 👑 Crown
+- 👒 Woman’s Hat
+- 🎩 Top Hat
+- 🎓 Graduation Cap
+- 🧢 Billed Cap
+- 🪖 Military Helmet
+- ⛑️ Rescue Worker’s Helmet
+- 📿 Prayer Beads
+- 💄 Lipstick
+- 💍 Ring
+- 💎 Gem Stone
+- 🪭 Folding Hand Fan
+- 🪮 Hair Pick
+- 🔇 Muted Speaker
+- 🔈 Speaker Low Volume
+- 🔉 Speaker Medium Volume
+- 🔊 Speaker High Volume
+- 📢 Loudspeaker
+- 📣 Megaphone
+- 📯 Postal Horn
+- 🔔 Bell
+- 🔕 Bell With Slash
+- 🎼 Musical Score
+- 🎵 Musical Note
+- 🎶 Musical Notes
+- 🎙️ Studio Microphone
+- 🎚️ Level Slider
+- 🎛️ Control Knobs
+- 🎤 Microphone
+- 🎧 Headphone
+- 📻 Radio
+- 🎷 Saxophone
+- 🪗 Accordion
+- 🎸 Guitar
+- 🎹 Musical Keyboard
+- 🎺 Trumpet
+- 🎻 Violin
+- 🪕 Banjo
+- 🥁 Drum
+- 🪘 Long Drum
+- 🪇 Maracas
+- 🪈 Flute
+- 📱 Mobile Phone
+- 📲 Mobile Phone With Arrow
+- ☎️ Telephone
+- 📞 Telephone Receiver
+- 📟 Pager
+- 📠 Fax Machine
+- 🔋 Battery
+- 🪫 Low Battery
+- 🔌 Electric Plug
+- 💻 Laptop
+- 🖥️ Desktop Computer
+- 🖨️ Printer
+- ⌨️ Keyboard
+- 🖱️ Computer Mouse
+- 🖲️ Trackball
+- 💽 Computer Disk
+- 💾 Floppy Disk
+- 💿 Optical Disk
+- 📀 DVD
+- 🧮 Abacus
+- 🎥 Movie Camera
+- 🎞️ Film Frames
+- 📽️ Film Projector
+- 🎬 Clapper Board
+- 📺 Television
+- 📷 Camera
+- 📸 Camera With Flash
+- 📹 Video Camera
+- 📼 Videocassette
+- 🔍 Magnifying Glass Tilted Left
+- 🔎 Magnifying Glass Tilted Right
+- 🕯️ Candle
+- 💡 Light Bulb
+- 🔦 Flashlight
+- 🏮 Red Paper Lantern
+- 🪔 Diya Lamp
+- 📔 Notebook With Decorative Cover
+- 📕 Closed Book
+- 📖 Open Book
+- 📗 Green Book
+- 📘 Blue Book
+- 📙 Orange Book
+- 📚 Books
+- 📓 Notebook
+- 📒 Ledger
+- 📃 Page With Curl
+- 📜 Scroll
+- 📄 Page Facing Up
+- 📰 Newspaper
+- 🗞️ Rolled-Up Newspaper
+- 📑 Bookmark Tabs
+- 🔖 Bookmark
+- 🏷️ Label
+- 💰 Money Bag
+- 🪙 Coin
+- 💴 Yen Banknote
+- 💵 Dollar Banknote
+- 💶 Euro Banknote
+- 💷 Pound Banknote
+- 💸 Money With Wings
+- 💳 Credit Card
+- 🧾 Receipt
+- 💹 Chart Increasing With Yen
+- ✉️ Envelope
+- 📧 E-mail
+- 📨 Incoming Envelope
+- 📩 Envelope With Arrow
+- 📤 Outbox Tray
+- 📥 Inbox Tray
+- 📦 Package
+- 📫 Closed Mailbox With Raised Flag
+- 📪 Closed Mailbox With Lowered Flag
+- 📬 Open Mailbox With Raised Flag
+- 📭 Open Mailbox With Lowered Flag
+- 📮 Postbox
+- 🗳️ Ballot Box With Ballot
+- ✏️ Pencil
+- ✒️ Black Nib
+- 🖋️ Fountain Pen
+- 🖊️ Pen
+- 🖌️ Paintbrush
+- 🖍️ Crayon
+- 📝 Memo
+- 💼 Briefcase
+- 📁 File Folder
+- 📂 Open File Folder
+- 🗂️ Card Index Dividers
+- 📅 Calendar
+- 📆 Tear-Off Calendar
+- 🗒️ Spiral Notepad
+- 🗓️ Spiral Calendar
+- 📇 Card Index
+- 📈 Chart Increasing
+- 📉 Chart Decreasing
+- 📊 Bar Chart
+- 📋 Clipboard
+- 📌 Pushpin
+- 📍 Round Pushpin
+- 📎 Paperclip
+- 🖇️ Linked Paperclips
+- 📏 Straight Ruler
+- 📐 Triangular Ruler
+- ✂️ Scissors
+- 🗃️ Card File Box
+- 🗄️ File Cabinet
+- 🗑️ Wastebasket
+- 🔒 Locked
+- 🔓 Unlocked
+- 🔏 Locked With Pen
+- 🔐 Locked With Key
+- 🔑 Key
+- 🗝️ Old Key
+- 💣 Bomb
+- 🔨 Hammer
+- 🪓 Axe
+- ⛏️ Pick
+- ⚒️ Hammer and Pick
+- 🛠️ Hammer And Wrench
+- 🗡️ Dagger
+- ⚔️ Crossed Swords
+- 🪃 Boomerang
+- 🏹 Bow And Arrow
+- 🛡️ Shield
+- 🪚 Carpentry Saw
+- 🔧 Wrench
+- 🪛 Screwdriver
+- 🔩 Nut And Bolt
+- ⚙️ Gear
+- 🗜️ Clamp
+- ⚖️ Balance Scale
+- 🦯 White Cane
+- 🔗 Link
+- ⛓️ Chains
+- 🪝 Hook
+- 🧰 Toolbox
+- 🧲 Magnet
+- 🪜 Ladder
+- ⛓️‍💥 Broken Chain
+- ⚗️ Alembic
+- 🧪 Test Tube
+- 🧫 Petri Dish
+- 🧬 DNA
+- 🔬 Microscope
+- 🔭 Telescope
+- 📡 Satellite Antenna
+- 💉 Syringe
+- 🩸 Drop Of Blood
+- 💊 Pill
+- 🩹 Adhesive Bandage
+- 🩼 Crutch
+- 🩺 Stethoscope
+- 🩻 X-Ray
+- 🚪 Door
+- 🛗 Elevator
+- 🪞 Mirror
+- 🪟 Window
+- 🛏️ Bed
+- 🛋️ Couch and Lamp
+- 🪑 Chair
+- 🚽 Toilet
+- 🪠 Plunger
+- 🚿 Shower
+- 🛁 Bathtub
+- 🪤 Mouse Trap
+- 🪒 Razor
+- 🧴 Lotion Bottle
+- 🧷 Safety Pin
+- 🧹 Broom
+- 🧺 Basket
+- 🧻 Roll Of Paper
+- 🪣 Bucket
+- 🧼 Soap
+- 🫧 Bubbles
+- 🪥 Toothbrush
+- 🧽 Sponge
+- 🧯 Fire Extinguisher
+- 🛒 Shopping Cart
+- 🧿 Nazar Amulet
+- 🪬 Hamsa
+- 🚬 Cigarette
+- ⚰️ Coffin
+- 🪦 Headstone
+- ⚱️ Funeral Urn
+- 🗿 Moai
+- 🪧 Placard
+- 🪪 Identification Card
+- 🏧 ATM Sign
+- 🚮 Litter In Bin Sign
+- 🚰 Potable Water
+- ♿ Wheelchair Symbol
+- 🚹 Men’s Room
+- 🚺 Women’s Room
+- 🚻 Restroom
+- 🚼 Baby Symbol
+- 🚾 Water Closet
+- 🛂 Passport Control
+- 🛃 Customs
+- 🛄 Baggage Claim
+- 🛅 Left Luggage
+- ⚠️ Warning
+- 🚸 Children Crossing
+- ⛔ No Entry
+- 🚫 Prohibited
+- 🚳 No Bicycles
+- 🚭 No Smoking
+- 🚯 No Littering
+- 🚱 Non-Potable Water
+- 🚷 No Pedestrians
+- 📵 No Mobile Phones
+- 🔞 No One Under Eighteen
+- ☢️ Radioactive
+- ☣️ Biohazard
+- ⬆️ Up Arrow
+- ↗️ Up-Right Arrow
+- ➡️ Right Arrow
+- ↘️ Down-Right Arrow
+- ⬇️ Down Arrow
+- ↙️ Down-Left Arrow
+- ⬅️ Left Arrow
+- ↖️ Up-Left Arrow
+- ↕️ Up-Down Arrow
+- ↔️ Left-Right Arrow
+- ↩️ Right Arrow Curving Left
+- ↪️ Left Arrow Curving Right
+- ⤴️ Right Arrow Curving Up
+- ⤵️ Right Arrow Curving Down
+- 🔃 Clockwise Vertical Arrows
+- 🔄 Counterclockwise Arrows Button
+- 🔙 BACK Arrow
+- 🔚 END Arrow
+- 🔛 ON! Arrow
+- 🔜 SOON Arrow
+- 🔝 TOP Arrow
+- 🛐 Place Of Worship
+- ⚛️ Atom Symbol
+- 🕉️ Om
+- ✡️ Star Of David
+- ☸️ Wheel Of Dharma
+- ☯️ Yin Yang
+- ✝️ Latin Cross
+- ☦️ Orthodox Cross
+- ☪️ Star And Crescent
+- ☮️ Peace Symbol
+- 🕎 Menorah
+- 🔯 Dotted Six-Pointed Star
+- 🪯 Khanda
+- ♈ Aries
+- ♉ Taurus
+- ♊ Gemini
+- ♋ Cancer
+- ♌ Leo
+- ♍ Virgo
+- ♎ Libra
+- ♏ Scorpio
+- ♐ Sagittarius
+- ♑ Capricorn
+- ♒ Aquarius
+- ♓ Pisces
+- ⛎ Ophiuchus
+- 🔀 Shuffle Tracks Button
+- 🔁 Repeat Button
+- 🔂 Repeat Single Button
+- ▶️ Play Button
+- ⏩ Fast-Forward Button
+- ⏭️ Next Track Button
+- ⏯️ Play Or Pause Button
+- ◀️ Reverse Button
+- ⏪ Fast Reverse Button
+- ⏮️ Last Track Button
+- 🔼 Upwards Button
+- ⏫ Fast Up Button
+- 🔽 Downwards Button
+- ⏬ Fast Down Button
+- ⏸️ Pause Button
+- ⏹️ Stop Button
+- ⏺️ Record Button
+- ⏏️ Eject Button
+- 🎦 Cinema
+- 🔅 Dim Button
+- 🔆 Bright Button
+- 📶 Antenna Bars
+- 📳 Vibration Mode
+- 📴 Mobile Phone Off
+- 🛜 Wireless
+- ♀️ Female Sign
+- ♂️ Male Sign
+- ⚧️ Transgender Symbol
+- ✖️ Multiply
+- ➕ Plus
+- ➖ Minus
+- ➗ Divide
+- 🟰 Heavy Equals Sign
+- ♾️ Infinity
+- ‼️ Double Exclamation Mark
+- ⁉️ Exclamation Question Mark
+- ❓ Question Mark
+- ❔ White Question Mark
+- ❕ White Exclamation Mark
+- ❗ Exclamation Mark
+- 〰️ Wavy Dash
+- 💱 Currency Exchange
+- 💲 Heavy Dollar Sign
+- ⚕️ Medical Symbol
+- ♻️ Recycling Symbol
+- ⚜️ Fleur-de-lis
+- 🔱 Trident Emblem
+- 📛 Name Badge
+- 🔰 Japanese Symbol For Beginner
+- ⭕ Hollow Red Circle
+- ✅ Check Mark Button
+- ☑️ Check Box With Check
+- ✔️ Check Mark
+- ❌ Cross Mark
+- ❎ Cross Mark Button
+- ➰ Curly Loop
+- ➿ Double Curly Loop
+- 〽️ Part Alternation Mark
+- ✳️ Eight-Spoked Asterisk
+- ✴️ Eight-Pointed Star
+- ❇️ Sparkle
+- ©️ Copyright
+- ®️ Registered
+- ™️ Trade Mark
+- #️⃣ Keycap: #
+- *️⃣ Keycap: *
+- 0️⃣ Keycap: 0
+- 1️⃣ Keycap: 1
+- 2️⃣ Keycap: 2
+- 3️⃣ Keycap: 3
+- 4️⃣ Keycap: 4
+- 5️⃣ Keycap: 5
+- 6️⃣ Keycap: 6
+- 7️⃣ Keycap: 7
+- 8️⃣ Keycap: 8
+- 9️⃣ Keycap: 9
+- 🔟 Keycap: 10
+- 🔠 Input Latin Uppercase
+- 🔡 Input Latin Lowercase
+- 🔢 Input Numbers
+- 🔣 Input Symbols
+- 🔤 Input Latin Letters
+- 🅰️ A Button (Blood Type)
+- 🆎 AB Button (Blood Type)
+- 🅱️ B Button (Blood Type)
+- 🆑 CL Button
+- 🆒 COOL Button
+- 🆓 FREE Button
+- ℹ️ Information
+- 🆔 ID Button
+- Ⓜ️ Circled M
+- 🆕 NEW Button
+- 🆖 NG Button
+- 🅾️ O Button (Blood Type)
+- 🆗 OK Button
+- 🅿️ P Button
+- 🆘 SOS Button
+- 🆙 UP! Button
+- 🆚 VS Button
+- 🈁 Japanese “here” Button
+- 🈂️ Japanese “service Charge” Button
+- 🈷️ Japanese “monthly Amount” Button
+- 🈶 Japanese “not Free Of Charge” Button
+- 🈯 Japanese “reserved” Button
+- 🉐 Japanese “bargain” Button
+- 🈹 Japanese “discount” Button
+- 🈚 Japanese “free Of Charge” Button
+- 🈲 Japanese “prohibited” Button
+- 🉑 Japanese “acceptable” Button
+- 🈸 Japanese “application” Button
+- 🈴 Japanese “passing Grade” Button
+- 🈳 Japanese “vacancy” Button
+- ㊗️ Japanese “congratulations” Button
+- ㊙️ Japanese “secret” Button
+- 🈺 Japanese “open For Business” Button
+- 🈵 Japanese “no Vacancy” Button
+- 🔴 Red Circle
+- 🟠 Orange Circle
+- 🟡 Yellow Circle
+- 🟢 Green Circle
+- 🔵 Blue Circle
+- 🟣 Purple Circle
+- 🟤 Brown Circle
+- ⚫ Black Circle
+- ⚪ White Circle
+- 🟥 Red Square
+- 🟧 Orange Square
+- 🟨 Yellow Square
+- 🟩 Green Square
+- 🟦 Blue Square
+- 🟪 Purple Square
+- 🟫 Brown Square
+- ⬛ Black Large Square
+- ⬜ White Large Square
+- ◼️ Black Medium Square
+- ◻️ White Medium Square
+- ◾ Black Medium-Small Square
+- ◽ White Medium-Small Square
+- ▪️ Black Small Square
+- ▫️ White Small Square
+- 🔶 Large Orange Diamond
+- 🔷 Large Blue Diamond
+- 🔸 Small Orange Diamond
+- 🔹 Small Blue Diamond
+- 🔺 Red Triangle Pointed Up
+- 🔻 Red Triangle Pointed Down
+- 💠 Diamond With A Dot
+- 🔘 Radio Button
+- 🔳 White Square Button
+- 🔲 Black Square Button
+- 🏁 Chequered Flag
+- 🚩 Triangular Flag
+- 🎌 Crossed Flags
+- 🏴 Black Flag
+- 🏳️ White Flag
+- 🏳️‍🌈 Rainbow Flag
+- 🏳️‍⚧️ Transgender Flag
+- 🏴‍☠️ Pirate Flag
+- 🇦🇨 Flag: Ascension Island
+- 🇦🇩 Flag: Andorra
+- 🇦🇪 Flag: United Arab Emirates
+- 🇦🇫 Flag: Afghanistan
+- 🇦🇬 Flag: Antigua & Barbuda
+- 🇦🇮 Flag: Anguilla
+- 🇦🇱 Flag: Albania
+- 🇦🇲 Flag: Armenia
+- 🇦🇴 Flag: Angola
+- 🇦🇶 Flag: Antarctica
+- 🇦🇷 Flag: Argentina
+- 🇦🇸 Flag: American Samoa
+- 🇦🇹 Flag: Austria
+- 🇦🇺 Flag: Australia
+- 🇦🇼 Flag: Aruba
+- 🇦🇽 Flag: Åland Islands
+- 🇦🇿 Flag: Azerbaijan
+- 🇧🇦 Flag: Bosnia & Herzegovina
+- 🇧🇧 Flag: Barbados
+- 🇧🇩 Flag: Bangladesh
+- 🇧🇪 Flag: Belgium
+- 🇧🇫 Flag: Burkina Faso
+- 🇧🇬 Flag: Bulgaria
+- 🇧🇭 Flag: Bahrain
+- 🇧🇮 Flag: Burundi
+- 🇧🇯 Flag: Benin
+- 🇧🇱 Flag: St. Barthélemy
+- 🇧🇲 Flag: Bermuda
+- 🇧🇳 Flag: Brunei
+- 🇧🇴 Flag: Bolivia
+- 🇧🇶 Flag: Caribbean Netherlands
+- 🇧🇷 Flag: Brazil
+- 🇧🇸 Flag: Bahamas
+- 🇧🇹 Flag: Bhutan
+- 🇧🇻 Flag: Bouvet Island
+- 🇧🇼 Flag: Botswana
+- 🇧🇾 Flag: Belarus
+- 🇧🇿 Flag: Belize
+- 🇨🇦 Flag: Canada
+- 🇨🇨 Flag: Cocos (Keeling) Islands
+- 🇨🇩 Flag: Congo - Kinshasa
+- 🇨🇫 Flag: Central African Republic
+- 🇨🇬 Flag: Congo - Brazzaville
+- 🇨🇭 Flag: Switzerland
+- 🇨🇮 Flag: Côte D’Ivoire
+- 🇨🇰 Flag: Cook Islands
+- 🇨🇱 Flag: Chile
+- 🇨🇲 Flag: Cameroon
+- 🇨🇳 Flag: China
+- 🇨🇴 Flag: Colombia
+- 🇨🇵 Flag: Clipperton Island
+- 🇨🇷 Flag: Costa Rica
+- 🇨🇺 Flag: Cuba
+- 🇨🇻 Flag: Cape Verde
+- 🇨🇼 Flag: Curaçao
+- 🇨🇽 Flag: Christmas Island
+- 🇨🇾 Flag: Cyprus
+- 🇨🇿 Flag: Czechia
+- 🇩🇪 Flag: Germany
+- 🇩🇬 Flag: Diego Garcia
+- 🇩🇯 Flag: Djibouti
+- 🇩🇰 Flag: Denmark
+- 🇩🇲 Flag: Dominica
+- 🇩🇴 Flag: Dominican Republic
+- 🇩🇿 Flag: Algeria
+- 🇪🇦 Flag: Ceuta & Melilla
+- 🇪🇨 Flag: Ecuador
+- 🇪🇪 Flag: Estonia
+- 🇪🇬 Flag: Egypt
+- 🇪🇭 Flag: Western Sahara
+- 🇪🇷 Flag: Eritrea
+- 🇪🇸 Flag: Spain
+- 🇪🇹 Flag: Ethiopia
+- 🇪🇺 Flag: European Union
+- 🇫🇮 Flag: Finland
+- 🇫🇯 Flag: Fiji
+- 🇫🇰 Flag: Falkland Islands
+- 🇫🇲 Flag: Micronesia
+- 🇫🇴 Flag: Faroe Islands
+- 🇫🇷 Flag: France
+- 🇬🇦 Flag: Gabon
+- 🇬🇧 Flag: United Kingdom
+- 🇬🇩 Flag: Grenada
+- 🇬🇪 Flag: Georgia
+- 🇬🇫 Flag: French Guiana
+- 🇬🇬 Flag: Guernsey
+- 🇬🇭 Flag: Ghana
+- 🇬🇮 Flag: Gibraltar
+- 🇬🇱 Flag: Greenland
+- 🇬🇲 Flag: Gambia
+- 🇬🇳 Flag: Guinea
+- 🇬🇵 Flag: Guadeloupe
+- 🇬🇶 Flag: Equatorial Guinea
+- 🇬🇷 Flag: Greece
+- 🇬🇸 Flag: South Georgia & South Sandwich Islands
+- 🇬🇹 Flag: Guatemala
+- 🇬🇺 Flag: Guam
+- 🇬🇼 Flag: Guinea-Bissau
+- 🇬🇾 Flag: Guyana
+- 🇭🇰 Flag: Hong Kong Sar China
+- 🇭🇲 Flag: Heard & Mcdonald Islands
+- 🇭🇳 Flag: Honduras
+- 🇭🇷 Flag: Croatia
+- 🇭🇹 Flag: Haiti
+- 🇭🇺 Flag: Hungary
+- 🇮🇨 Flag: Canary Islands
+- 🇮🇩 Flag: Indonesia
+- 🇮🇪 Flag: Ireland
+- 🇮🇱 Flag: Israel
+- 🇮🇲 Flag: Isle Of Man
+- 🇮🇳 Flag: India
+- 🇮🇴 Flag: British Indian Ocean Territory
+- 🇮🇶 Flag: Iraq
+- 🇮🇷 Flag: Iran
+- 🇮🇸 Flag: Iceland
+- 🇮🇹 Flag: Italy
+- 🇯🇪 Flag: Jersey
+- 🇯🇲 Flag: Jamaica
+- 🇯🇴 Flag: Jordan
+- 🇯🇵 Flag: Japan
+- 🇰🇪 Flag: Kenya
+- 🇰🇬 Flag: Kyrgyzstan
+- 🇰🇭 Flag: Cambodia
+- 🇰🇮 Flag: Kiribati
+- 🇰🇲 Flag: Comoros
+- 🇰🇳 Flag: St. Kitts & Nevis
+- 🇰🇵 Flag: North Korea
+- 🇰🇷 Flag: South Korea
+- 🇰🇼 Flag: Kuwait
+- 🇰🇾 Flag: Cayman Islands
+- 🇰🇿 Flag: Kazakhstan
+- 🇱🇦 Flag: Laos
+- 🇱🇧 Flag: Lebanon
+- 🇱🇨 Flag: St. Lucia
+- 🇱🇮 Flag: Liechtenstein
+- 🇱🇰 Flag: Sri Lanka
+- 🇱🇷 Flag: Liberia
+- 🇱🇸 Flag: Lesotho
+- 🇱🇹 Flag: Lithuania
+- 🇱🇺 Flag: Luxembourg
+- 🇱🇻 Flag: Latvia
+- 🇱🇾 Flag: Libya
+- 🇲🇦 Flag: Morocco
+- 🇲🇨 Flag: Monaco
+- 🇲🇩 Flag: Moldova
+- 🇲🇪 Flag: Montenegro
+- 🇲🇫 Flag: St. Martin
+- 🇲🇬 Flag: Madagascar
+- 🇲🇭 Flag: Marshall Islands
+- 🇲🇰 Flag: North Macedonia
+- 🇲🇱 Flag: Mali
+- 🇲🇲 Flag: Myanmar (Burma)
+- 🇲🇳 Flag: Mongolia
+- 🇲🇴 Flag: Macao Sar China
+- 🇲🇵 Flag: Northern Mariana Islands
+- 🇲🇶 Flag: Martinique
+- 🇲🇷 Flag: Mauritania
+- 🇲🇸 Flag: Montserrat
+- 🇲🇹 Flag: Malta
+- 🇲🇺 Flag: Mauritius
+- 🇲🇻 Flag: Maldives
+- 🇲🇼 Flag: Malawi
+- 🇲🇽 Flag: Mexico
+- 🇲🇾 Flag: Malaysia
+- 🇲🇿 Flag: Mozambique
+- 🇳🇦 Flag: Namibia
+- 🇳🇨 Flag: New Caledonia
+- 🇳🇪 Flag: Niger
+- 🇳🇫 Flag: Norfolk Island
+- 🇳🇬 Flag: Nigeria
+- 🇳🇮 Flag: Nicaragua
+- 🇳🇱 Flag: Netherlands
+- 🇳🇴 Flag: Norway
+- 🇳🇵 Flag: Nepal
+- 🇳🇷 Flag: Nauru
+- 🇳🇺 Flag: Niue
+- 🇳🇿 Flag: New Zealand
+- 🇴🇲 Flag: Oman
+- 🇵🇦 Flag: Panama
+- 🇵🇪 Flag: Peru
+- 🇵🇫 Flag: French Polynesia
+- 🇵🇬 Flag: Papua New Guinea
+- 🇵🇭 Flag: Philippines
+- 🇵🇰 Flag: Pakistan
+- 🇵🇱 Flag: Poland
+- 🇵🇲 Flag: St. Pierre & Miquelon
+- 🇵🇳 Flag: Pitcairn Islands
+- 🇵🇷 Flag: Puerto Rico
+- 🇵🇸 Flag: Palestinian Territories
+- 🇵🇹 Flag: Portugal
+- 🇵🇼 Flag: Palau
+- 🇵🇾 Flag: Paraguay
+- 🇶🇦 Flag: Qatar
+- 🇷🇪 Flag: Réunion
+- 🇷🇴 Flag: Romania
+- 🇷🇸 Flag: Serbia
+- 🇷🇺 Flag: Russia
+- 🇷🇼 Flag: Rwanda
+- 🇸🇦 Flag: Saudi Arabia
+- 🇸🇧 Flag: Solomon Islands
+- 🇸🇨 Flag: Seychelles
+- 🇸🇩 Flag: Sudan
+- 🇸🇪 Flag: Sweden
+- 🇸🇬 Flag: Singapore
+- 🇸🇭 Flag: St. Helena
+- 🇸🇮 Flag: Slovenia
+- 🇸🇯 Flag: Svalbard & Jan Mayen
+- 🇸🇰 Flag: Slovakia
+- 🇸🇱 Flag: Sierra Leone
+- 🇸🇲 Flag: San Marino
+- 🇸🇳 Flag: Senegal
+- 🇸🇴 Flag: Somalia
+- 🇸🇷 Flag: Suriname
+- 🇸🇸 Flag: South Sudan
+- 🇸🇹 Flag: São Tomé & Príncipe
+- 🇸🇻 Flag: El Salvador
+- 🇸🇽 Flag: Sint Maarten
+- 🇸🇾 Flag: Syria
+- 🇸🇿 Flag: Eswatini
+- 🇹🇦 Flag: Tristan Da Cunha
+- 🇹🇨 Flag: Turks & Caicos Islands
+- 🇹🇩 Flag: Chad
+- 🇹🇫 Flag: French Southern Territories
+- 🇹🇬 Flag: Togo
+- 🇹🇭 Flag: Thailand
+- 🇹🇯 Flag: Tajikistan
+- 🇹🇰 Flag: Tokelau
+- 🇹🇱 Flag: Timor-Leste
+- 🇹🇲 Flag: Turkmenistan
+- 🇹🇳 Flag: Tunisia
+- 🇹🇴 Flag: Tonga
+- 🇹🇷 Flag: Turkey
+- 🇹🇹 Flag: Trinidad & Tobago
+- 🇹🇻 Flag: Tuvalu
+- 🇹🇼 Flag: Taiwan
+- 🇹🇿 Flag: Tanzania
+- 🇺🇦 Flag: Ukraine
+- 🇺🇬 Flag: Uganda
+- 🇺🇲 Flag: U.S. Outlying Islands
+- 🇺🇳 Flag: United Nations
+- 🇺🇸 Flag: United States
+- 🇺🇾 Flag: Uruguay
+- 🇺🇿 Flag: Uzbekistan
+- 🇻🇦 Flag: Vatican City
+- 🇻🇨 Flag: St. Vincent & Grenadines
+- 🇻🇪 Flag: Venezuela
+- 🇻🇬 Flag: British Virgin Islands
+- 🇻🇮 Flag: U.S. Virgin Islands
+- 🇻🇳 Flag: Vietnam
+- 🇻🇺 Flag: Vanuatu
+- 🇼🇫 Flag: Wallis & Futuna
+- 🇼🇸 Flag: Samoa
+- 🇽🇰 Flag: Kosovo
+- 🇾🇪 Flag: Yemen
+- 🇾🇹 Flag: Mayotte
+- 🇿🇦 Flag: South Africa
+- 🇿🇲 Flag: Zambia
+- 🇿🇼 Flag: Zimbabwe
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Flag: England
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Flag: Scotland
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Flag: Wales
+- 🦰 Red Hair
+- 🦱 Curly Hair
+- 🦳 White Hair
+- 🦲 Bald
