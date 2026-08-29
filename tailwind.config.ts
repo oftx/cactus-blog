@@ -30,6 +30,31 @@ export default {
 						"blockquote p:last-of-type::after": {
 							content: "none",
 						},
+						ol: {
+							listStyleType: "none",
+							counterReset: "cactus-ol-counter",
+							paddingLeft: "0",
+							paddingInlineStart: "0",
+						},
+						"ol > li": {
+							counterIncrement: "cactus-ol-counter",
+							position: "relative",
+							paddingLeft: "1.75rem",
+							paddingInlineStart: "1.75rem",
+						},
+						"ol > li::before": {
+							content: 'counter(cactus-ol-counter) "."',
+							position: "absolute",
+							left: "0",
+							top: "0",
+							width: "1.75rem",
+							textAlign: "left",
+							color: "var(--color-muted)",
+							fontWeight: "400",
+						},
+						"ol > li::marker": {
+							content: "none",
+						},
 						code: {
 							padding: "0.2em 0.4em",
 							margin: "0",
@@ -107,6 +132,31 @@ export default {
 						code: {
 							fontSize: "85%",
 							fontWeight: "400",
+						},
+						ol: {
+							listStyleType: "none",
+							counterReset: "cactus-ol-counter",
+							paddingLeft: "0",
+							paddingInlineStart: "0",
+						},
+						"ol > li": {
+							counterIncrement: "cactus-ol-counter",
+							position: "relative",
+							paddingLeft: "1.75rem",
+							paddingInlineStart: "1.75rem",
+						},
+						"ol > li::before": {
+							content: 'counter(cactus-ol-counter) "."',
+							position: "absolute",
+							left: "0",
+							top: "0",
+							width: "1.75rem",
+							textAlign: "left",
+							color: "var(--color-muted)",
+							fontWeight: "400",
+						},
+						"ol > li::marker": {
+							content: "none",
 						},
 					},
 				},
