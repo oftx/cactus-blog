@@ -9,10 +9,18 @@ export function getFormattedDate(
 		return "Invalid Date";
 	}
 
-	return new Intl.DateTimeFormat(siteConfig.lang, {
-		...(siteConfig.date.options as Intl.DateTimeFormatOptions),
-		...options,
-	}).format(date);
+	if (options) {
+		return new Intl.DateTimeFormat(siteConfig.lang, {
+			...(siteConfig.date.options as Intl.DateTimeFormatOptions),
+			...options,
+		}).format(date);
+	}
+
+	const pad = (n: number) => String(n).padStart(2, "0");
+	const year = date.getFullYear();
+	const month = pad(date.getMonth() + 1);
+	const day = pad(date.getDate());
+	return `${year}-${month}-${day}`;
 }
 
 export function collectionDateSort(

@@ -22,7 +22,7 @@ if (includeTime) {
 	const hours = pad(date.getHours());
 	const minutes = pad(date.getMinutes());
 	const seconds = pad(date.getSeconds());
-	postDate = `${year}/${month}/${day} ${hours}:${minutes}:${seconds}`;
+	postDate = `${year}-${month}-${day} ${hours}:${minutes}:${seconds}`;
 }
 ---
 
@@ -46,7 +46,7 @@ if (includeTime) {
 			const h = pad(d.getHours());
 			const m = pad(d.getMinutes());
 			const s = pad(d.getSeconds());
-			el.textContent = `${Y}/${M}/${D} ${h}:${m}:${s}`;
+			el.textContent = `${Y}-${M}-${D} ${h}:${m}:${s}`;
 		});
 	})();
 </script>
