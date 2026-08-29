@@ -2,7 +2,7 @@
 import PageLayout from "@/layouts/Base.astro";
 
 const meta = {
-	description: "关于页面",
+	description: "关于",
 	title: "关于",
 };
 ---
@@ -10,6 +10,45 @@ const meta = {
 <PageLayout meta={meta}>
 	<h1 class="title mb-12">关于</h1>
 	<div class="prose prose-sm prose-cactus max-w-none">
-		<p></p>
+		<p>
+			这是我的个人博客，也是我的<strong>备忘录/记事本/收藏夹/剪贴板</strong>，我会在这里分享我的想法、经验和创作，欢迎参观！
+		</p>
+
+		<h2>建站历程</h2>
+		<div class="overflow-x-auto">
+			<table>
+				<thead>
+					<tr>
+						<th>时间</th>
+						<th>事件</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>2026/08/29</td>
+						<td>
+							采用更简洁的 <a class="cactus-link" href="https://github.com/chrismwilliams/astro-theme-cactus" target="_blank" rel="noreferrer">Astro Theme Cactus</a> 作为博客网站主题。
+						</td>
+					</tr>
+					<tr>
+						<td>2025/08/14</td>
+						<td>
+							部署 <a class="cactus-link" href="https://github.com/saicaca/fuwari" target="_blank" rel="noreferrer">Fuwari</a> 博客，借助 <a class="cactus-link" href="https://github.com/oftx/fuwari" target="_blank" rel="noreferrer">GitHub</a> 和 <a class="cactus-link" href="https://pages.cloudflare.com/" target="_blank" rel="noreferrer">Cloudflare Pages</a> 部署静态页面。<br />
+							先前我在本地写了一些备忘的文本，大多是操作流程记录。<br />
+							随着文档数量的增加，我意识到把这些文件保存到本地并不可靠，应该把它们上传到云端以防数据丢失，所以建立了博客以保存我编写的内容，同时也方便分享。
+						</td>
+					</tr>
+					<tr>
+						<td>2021/02/09</td>
+						<td>注册博客园账号。但由于没有写作动力，注册后即停止更新内容。</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+		<h2>博客模版</h2>
+		<p>
+			此博客基于 <a class="cactus-link" href="https://github.com/chrismwilliams/astro-theme-cactus" target="_blank" rel="noreferrer">Astro Theme Cactus</a> 模板构建。
+		</p>
 	</div>
 </PageLayout>
