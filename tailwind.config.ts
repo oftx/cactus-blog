@@ -31,8 +31,20 @@ export default {
 							content: "none",
 						},
 						code: {
-							border: "1px dotted #666",
-							borderRadius: "2px",
+							padding: "0.2em 0.4em",
+							margin: "0",
+							fontSize: "85%",
+							whiteSpace: "break-spaces",
+							backgroundColor: "var(--color-inline-code-bg)",
+							borderRadius: "6px",
+							fontWeight: "normal",
+							border: "none",
+						},
+						"code::before": {
+							content: "none",
+						},
+						"code::after": {
+							content: "none",
 						},
 						kbd: {
 							"&:where([data-theme='dark'], [data-theme='dark'] *)": {
@@ -93,7 +105,7 @@ export default {
 				sm: {
 					css: {
 						code: {
-							fontSize: "var(--text-sm)",
+							fontSize: "85%",
 							fontWeight: "400",
 						},
 					},
