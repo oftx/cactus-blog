@@ -153,7 +153,20 @@
 		@apply text-accent-2 text-2xl font-semibold;
 	}
 
-	.prose blockquote a {
+	.prose strong,
+	.prose b {
+		font-weight: 700;
+		color: var(--color-accent-2);
+	}
+
+	.prose blockquote {
+		color: var(--color-muted);
+	}
+
+	.prose blockquote strong,
+	.prose blockquote b,
+	.prose blockquote a,
+	.prose blockquote code {
 		color: inherit;
 	}
 
@@ -165,7 +178,7 @@
 
 @utility prose {
 	--tw-prose-body: var(--color-global-text);
-	--tw-prose-bold: var(--color-global-text);
+	--tw-prose-bold: var(--color-accent-2);
 	--tw-prose-bullets: var(--color-global-text);
 	--tw-prose-code: var(--color-global-text);
 	--tw-prose-headings: var(--color-accent-2);

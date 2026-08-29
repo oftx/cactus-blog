@@ -34,6 +34,12 @@ export default {
 						"blockquote a": {
 							color: "inherit",
 						},
+						"blockquote strong": {
+							color: "inherit",
+						},
+						"blockquote b": {
+							color: "inherit",
+						},
 						ol: {
 							listStyleType: "none",
 							counterReset: "cactus-ol-counter",
@@ -89,6 +95,7 @@ export default {
 						},
 						strong: {
 							fontWeight: "700",
+							color: "var(--color-accent-2)",
 						},
 						sup: {
 							marginInlineStart: "calc(var(--spacing) * 0.5)",
@@ -137,7 +144,17 @@ export default {
 				},
 				sm: {
 					css: {
+						strong: {
+							fontWeight: "700",
+							color: "var(--color-accent-2)",
+						},
 						"blockquote a": {
+							color: "inherit",
+						},
+						"blockquote strong": {
+							color: "inherit",
+						},
+						"blockquote b": {
 							color: "inherit",
 						},
 						code: {
