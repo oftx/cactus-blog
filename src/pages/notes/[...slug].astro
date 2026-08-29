@@ -21,7 +21,7 @@ const meta = {
 	description:
 		note.data.description ||
 		`Read about my note posted on: ${note.data.publishDate.toLocaleDateString()}`,
-	title: note.data.title,
+	title: note.data.title || "笔记",
 };
 ---
 
