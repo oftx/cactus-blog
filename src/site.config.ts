@@ -42,6 +42,10 @@ export const menuLinks: { path: string; title: string }[] = [
 		title: "标签",
 	},
 	{
+		path: "/favorites/",
+		title: "私藏",
+	},
+	{
 		path: "/about/",
 		title: "关于",
 	},

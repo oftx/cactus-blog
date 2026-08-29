@@ -1,0 +1,25 @@
+---
+import PageLayout from "@/layouts/Base.astro";
+import { Content } from "../../content/favorites.md";
+
+const meta = {
+	description: "博客文章收藏夹",
+	title: "私藏",
+};
+---
+
+<PageLayout meta={meta}>
+	<h1 class="title mb-12">私藏</h1>
+	<div class="prose prose-sm prose-cactus max-w-none">
+		<Content />
+	</div>
+</PageLayout>
+
+<style>
+	:global(.prose a) {
+		text-decoration: none;
+	}
+	:global(.prose a:hover) {
+		text-decoration: underline;
+	}
+</style>

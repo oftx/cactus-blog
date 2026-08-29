@@ -24,6 +24,7 @@ export default defineConfig({
 	site: siteConfig.url,
 	redirects: {
 		"/": "/posts/",
+		"/posts/blog-favorites/": "/favorites/",
 	},
 	image: {
 		domains: ["webmention.io"],
