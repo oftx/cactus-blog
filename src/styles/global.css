@@ -146,7 +146,7 @@
 	@import "./components/github-card.css";
 
 	.cactus-link {
-		@apply hover:decoration-link underline underline-offset-2 hover:decoration-2;
+		@apply hover:text-link hover:decoration-link underline underline-offset-2 hover:decoration-2;
 	}
 
 	.title {
@@ -155,6 +155,11 @@
 
 	.prose blockquote a {
 		color: inherit;
+	}
+
+	.prose a:hover,
+	.prose blockquote a:hover {
+		color: var(--color-link);
 	}
 }
 
