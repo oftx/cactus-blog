@@ -181,6 +181,17 @@
 	.prose blockquote a:hover {
 		color: var(--color-link);
 	}
+
+	/* 文章列表同日期 hover 互斥展示 */
+	li[data-date-group][data-hide-default="true"] time {
+		opacity: 0;
+	}
+	li[data-date-group][data-group-hover="true"] time {
+		opacity: 0;
+	}
+	li[data-date-group][data-active-row="true"] time {
+		opacity: 1;
+	}
 }
 
 @utility prose {
