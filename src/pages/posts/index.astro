@@ -1,56 +1,24 @@
 ---
-import type { CollectionEntry } from "astro:content";
-import type { GetStaticPaths, Page } from "astro";
 import PostPreview from "@/components/blog/PostPreview.astro";
-import Pagination from "@/components/Paginator.astro";
 import { getAllPosts, groupPostsByYear } from "@/data/post";
 import PageLayout from "@/layouts/Base.astro";
 import { collectionDateSort } from "@/utils/date";
 
-export const getStaticPaths = (async ({ paginate }) => {
-	const MAX_POSTS_PER_PAGE = 10;
-	const MAX_PINNED_POSTS = 3;
-	const allPosts = await getAllPosts();
-	const allPostsByDate = allPosts.sort(collectionDateSort);
-	const pinnedPosts = allPostsByDate
-		.values()
-		.filter((p) => p.data.pinned)
-		.take(MAX_PINNED_POSTS)
-		.toArray();
-	return paginate(allPostsByDate, {
-		pageSize: MAX_POSTS_PER_PAGE,
-		props: { pinnedPosts },
-	});
-}) satisfies GetStaticPaths;
-
-interface Props {
-	page: Page<CollectionEntry<"post">>;
-	pinnedPosts: CollectionEntry<"post">[];
-}
-
-const { page, pinnedPosts } = Astro.props;
+const MAX_PINNED_POSTS = 3;
+const allPosts = await getAllPosts();
+const allPostsByDate = allPosts.sort(collectionDateSort);
+const pinnedPosts = allPostsByDate
+	.values()
+	.filter((p) => p.data.pinned)
+	.take(MAX_PINNED_POSTS)
+	.toArray();
 
 const meta = {
 	description: "所有发布的文章与记录",
 	title: "文章",
 };
 
-const paginationProps = {
-	...(page.url.prev && {
-		prevUrl: {
-			text: "← 上一页",
-			url: page.url.prev,
-		},
-	}),
-	...(page.url.next && {
-		nextUrl: {
-			text: "下一页 →",
-			url: page.url.next,
-		},
-	}),
-};
-
-const groupedByYear = groupPostsByYear(page.data);
+const groupedByYear = groupPostsByYear(allPostsByDate);
 const descYearKeys = Object.keys(groupedByYear).sort((a, b) => +b - +a);
 ---
 
@@ -88,6 +56,5 @@ const descYearKeys = Object.keys(groupedByYear).sort((a, b) => +b - +a);
 				</section>
 			))
 		}
-		<Pagination {...paginationProps} />
 	</div>
 </PageLayout>
