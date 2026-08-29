@@ -77,7 +77,11 @@ export default {
 							},
 						},
 						hr: {
-							borderTopStyle: "dashed",
+							height: "0.25em",
+							padding: "0",
+							margin: "1.5rem 0",
+							backgroundColor: "var(--color-quote-border)",
+							border: "0",
 						},
 						strong: {
 							fontWeight: "700",
