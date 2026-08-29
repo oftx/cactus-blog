@@ -48,6 +48,11 @@
 	inherits: true;
 	initial-value: oklch(48% 0 0);
 }
+@property --color-quote-border {
+	syntax: "<color>";
+	inherits: true;
+	initial-value: rgba(208, 215, 222, 0.8);
+}
 @property --color-inline-code-bg {
 	syntax: "<color>";
 	inherits: true;
@@ -62,6 +67,7 @@
 	--color-accent: oklch(60% 0.15 220);
 	--color-accent-2: oklch(16% 0 0);
 	--color-quote: oklch(48% 0 0);
+	--color-quote-border: rgba(208, 215, 222, 0.8);
 	--color-inline-code-bg: rgba(175, 184, 193, 0.2);
 }
 
@@ -78,6 +84,7 @@
 		--color-accent: oklch(60% 0.15 220);
 		--color-accent-2: oklch(16% 0 0);
 		--color-quote: oklch(48% 0 0);
+		--color-quote-border: rgba(208, 215, 222, 0.8);
 		--color-inline-code-bg: rgba(175, 184, 193, 0.2);
 
 		&[data-theme="light"] {
@@ -89,6 +96,7 @@
 			--color-accent: oklch(60% 0.15 220);
 			--color-accent-2: oklch(16% 0 0);
 			--color-quote: oklch(48% 0 0);
+			--color-quote-border: rgba(208, 215, 222, 0.8);
 			--color-inline-code-bg: rgba(175, 184, 193, 0.2);
 		}
 
@@ -101,6 +109,7 @@
 			--color-accent: oklch(75% 0.14 220);
 			--color-accent-2: oklch(96% 0 0);
 			--color-quote: oklch(62% 0 0);
+			--color-quote-border: rgba(48, 54, 61, 1);
 			--color-inline-code-bg: rgba(255, 255, 255, 0.08);
 		}
 	}
@@ -154,6 +163,6 @@
 	--tw-prose-hr: 0.5px dashed #666;
 	--tw-prose-links: var(--color-global-text);
 	--tw-prose-quotes: var(--color-muted);
-	--tw-prose-quote-borders: var(--color-muted);
+	--tw-prose-quote-borders: var(--color-quote-border);
 	--tw-prose-th-borders: #666;
 }

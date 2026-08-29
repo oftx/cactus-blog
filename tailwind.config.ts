@@ -18,7 +18,7 @@ export default {
 						},
 						blockquote: {
 							borderLeftWidth: "0.25rem",
-							borderLeftColor: "var(--color-muted)",
+							borderLeftColor: "var(--color-quote-border)",
 							borderLeftStyle: "solid",
 							paddingLeft: "1rem",
 							fontStyle: "normal",
