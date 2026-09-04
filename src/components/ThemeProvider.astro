@@ -1,55 +1,62 @@
-{/* Inlined to avoid FOUC. This is a parser blocking script. */}
 <script is:inline>
-	const lightModePref = window.matchMedia("(prefers-color-scheme: light)");
+	const darkMedia = window.matchMedia("(prefers-color-scheme: dark)");
 
-	function getUserPref() {
-		const storedTheme = typeof localStorage !== "undefined" && localStorage.getItem("theme");
-		return storedTheme || (lightModePref.matches ? "light" : "dark");
+	function getSystemTheme() {
+		return darkMedia.matches ? "dark" : "light";
 	}
 
-	function setTheme(newTheme) {
-		if (newTheme !== "light" && newTheme !== "dark") {
-			return console.warn(
-				`Invalid theme value '${newTheme}' received. Expected 'light' or 'dark'.`,
-			);
+	function getUserPref() {
+		const sessionOverride =
+			typeof sessionStorage !== "undefined" && sessionStorage.getItem("theme-override");
+		if (sessionOverride === "dark" || sessionOverride === "light") {
+			return sessionOverride;
 		}
+		return getSystemTheme();
+	}
 
+	function applyTheme(newTheme, animate = false) {
 		const root = document.documentElement;
-
-		// root already set to newTheme, exit early
 		if (newTheme === root.getAttribute("data-theme")) {
 			return;
 		}
 
 		const update = () => {
 			root.setAttribute("data-theme", newTheme);
-			if (typeof localStorage !== "undefined") {
-				localStorage.setItem("theme", newTheme);
-			}
 		};
 
-		if (document.startViewTransition) {
+		if (animate && document.startViewTransition) {
 			document.startViewTransition(update);
 		} else {
 			update();
 		}
 	}
 
-	// initial setup
-	setTheme(getUserPref());
+	if (typeof localStorage !== "undefined" && localStorage.getItem("theme")) {
+		localStorage.removeItem("theme");
+	}
 
-	// listen for pageshow event, browser restored page from bfcache
+	applyTheme(getUserPref(), false);
+
 	window.addEventListener("pageshow", (e) => {
 		if (e.persisted) {
-			setTheme(getUserPref());
+			applyTheme(getUserPref(), false);
 		}
 	});
 
-	// listen for theme-change custom event, fired in src/components/ThemeToggle.astro
 	document.addEventListener("theme-change", (e) => {
-		setTheme(e.detail.theme);
+		const theme = e.detail.theme;
+		if (typeof sessionStorage !== "undefined") {
+			sessionStorage.setItem("theme-override", theme);
+		}
+		applyTheme(theme, true);
 	});
 
-	// listen for prefers-color-scheme change.
-	lightModePref.addEventListener("change", (e) => setTheme(e.matches ? "light" : "dark"));
+	const handleSystemThemeChange = (e) => {
+		if (typeof sessionStorage !== "undefined") {
+			sessionStorage.removeItem("theme-override");
+		}
+		applyTheme(e.matches ? "dark" : "light", true);
+	};
+
+	darkMedia.addEventListener("change", handleSystemThemeChange);
 </script>

@@ -53,7 +53,6 @@
 </theme-toggle>
 
 <script>
-	// Note that if you fire the theme-change event outside of this component, it will not be reflected in the button's aria-checked attribute. You will need to add an event listener if you want that.
 	import { rootInDarkMode } from "@/utils/domElement";
 
 	class ThemeToggle extends HTMLElement {
@@ -62,23 +61,25 @@
 			const button = this.querySelector<HTMLButtonElement>("button");
 
 			if (button) {
-				// set aria role value
 				button.setAttribute("role", "switch");
 				button.setAttribute("aria-checked", String(rootInDarkMode()));
 
-				// button event
 				button.addEventListener("click", () => {
-					// invert theme
 					let themeChangeEvent = new CustomEvent("theme-change", {
 						detail: {
 							theme: rootInDarkMode() ? "light" : "dark",
 						},
 					});
-					// dispatch event -> ThemeProvider.astro
 					document.dispatchEvent(themeChangeEvent);
-
-					// set the aria-checked attribute
 					button.setAttribute("aria-checked", String(rootInDarkMode()));
+				});
+
+				const observer = new MutationObserver(() => {
+					button.setAttribute("aria-checked", String(rootInDarkMode()));
+				});
+				observer.observe(document.documentElement, {
+					attributes: true,
+					attributeFilter: ["data-theme"],
 				});
 			} else {
 				console.warn("Theme Toggle: No button found");
