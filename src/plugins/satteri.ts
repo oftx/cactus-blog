@@ -104,3 +104,44 @@ export function satteriExternalLinksPlugin(): HastPluginDefinition {
 		},
 	};
 }
+
+export function satteriObsidianImageSizePlugin(): HastPluginDefinition {
+	return {
+		name: "cactus-obsidian-image-size",
+		element: {
+			filter: ["img"],
+			visit(node, ctx) {
+				const alt = node.properties?.alt;
+				if (typeof alt !== "string") return;
+
+				// Supports Obsidian image resize syntax:
+				// ![alt|300](url), ![|300](url), ![alt|300x200](url), ![alt|50%](url)
+				const match = alt.match(/^(.*?)\s*\|\s*(\d+%?)(?:x(\d+%?))?\s*$/);
+				if (!match) return;
+
+				const cleanAlt = match[1] ?? "";
+				const rawWidth = match[2];
+				const rawHeight = match[3];
+				if (!rawWidth) return;
+
+				const widthCss = rawWidth.endsWith("%") ? rawWidth : `${rawWidth}px`;
+				const heightCss = rawHeight
+					? rawHeight.endsWith("%")
+						? rawHeight
+						: `${rawHeight}px`
+					: "auto";
+
+				ctx.setProperty(node, "alt", cleanAlt);
+				// Do not set node.width / node.height as HTML attributes to avoid Astro/Sharp
+				// downscaling the source raster image. Keeping the original resolution ensures
+				// Retina-crisp display quality while scaling purely via CSS.
+				const existingStyle = node.properties?.style ? `${node.properties.style}; ` : "";
+				ctx.setProperty(
+					node,
+					"style",
+					`${existingStyle}width: ${widthCss}; max-width: 100%; height: ${heightCss};`,
+				);
+			},
+		},
+	};
+}

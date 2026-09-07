@@ -14,6 +14,7 @@ import {
 	satteriAutolinkHeadingsPlugin,
 	satteriExternalLinksPlugin,
 	satteriFootnoteLabelPlugin,
+	satteriObsidianImageSizePlugin,
 	satteriReadingTimePlugin,
 	satteriUnwrapImagesPlugin,
 } from "./src/plugins/satteri";
@@ -83,6 +84,7 @@ export default defineConfig({
 				satteriAutolinkHeadingsPlugin(),
 				satteriFootnoteLabelPlugin(),
 				satteriExternalLinksPlugin(),
+				satteriObsidianImageSizePlugin(),
 			],
 		}),
 	},
