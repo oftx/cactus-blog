@@ -8,7 +8,7 @@ type Props = HTMLAttributes<"time"> & {
 	includeTime?: boolean;
 };
 
-const { date, dateTimeOptions, includeTime = false, ...attrs } = Astro.props;
+const { class: className, date, dateTimeOptions, includeTime = false, ...attrs } = Astro.props;
 
 const ISO = date.toISOString();
 
@@ -26,8 +26,12 @@ if (includeTime) {
 }
 ---
 
-<time datetime={ISO} title={ISO} data-include-time={includeTime ? "true" : undefined} {...attrs}
-	>{postDate}</time
+<time
+	class:list={["whitespace-nowrap", className]}
+	datetime={ISO}
+	title={ISO}
+	data-include-time={includeTime ? "true" : undefined}
+	{...attrs}>{postDate}</time
 >
 
 <script is:inline>
