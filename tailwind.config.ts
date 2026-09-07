@@ -42,18 +42,16 @@ export default {
 						},
 						ol: {
 							listStyleType: "none",
-							counterReset: "cactus-ol-counter",
 							paddingLeft: "0",
 							paddingInlineStart: "0",
 						},
 						"ol > li": {
-							counterIncrement: "cactus-ol-counter",
 							position: "relative",
 							paddingLeft: "1.75rem",
 							paddingInlineStart: "1.75rem",
 						},
 						"ol > li::before": {
-							content: 'counter(cactus-ol-counter) "."',
+							content: 'counter(list-item) "."',
 							position: "absolute",
 							left: "0",
 							top: "0",
@@ -163,18 +161,16 @@ export default {
 						},
 						ol: {
 							listStyleType: "none",
-							counterReset: "cactus-ol-counter",
 							paddingLeft: "0",
 							paddingInlineStart: "0",
 						},
 						"ol > li": {
-							counterIncrement: "cactus-ol-counter",
 							position: "relative",
 							paddingLeft: "1.75rem",
 							paddingInlineStart: "1.75rem",
 						},
 						"ol > li::before": {
-							content: 'counter(cactus-ol-counter) "."',
+							content: 'counter(list-item) "."',
 							position: "absolute",
 							left: "0",
 							top: "0",
